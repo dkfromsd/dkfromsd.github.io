@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="Graphic Design Solutions">
+    <meta property="og:title" content="Graphic Design Solutions">
+    <meta property="og:description" content="We offer expert consultations on graphic design best practices, ">
+    <meta property="og:image" content="./img/thumb.jpg">
+    <title id='js-title'>Graphic Design Solutions</title>
+    <link href="./css/common.css" rel="stylesheet" type="text/css" />
+    <link href="./css/form.css" rel="stylesheet" type="text/css" />
+    <link href="./css/layout.css" rel="stylesheet" type="text/css" />
+    <link href="./css/type.css" rel="stylesheet" type="text/css" />
+    <link href="./css/index.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" href="./img/face.png" type="image/x-icon"/>
+  </head>
+  <body id='js-body' class='body'>
+    <nav class='menu-wr'>
+      <div onclick='gotoHome()' class='menu'>Home</div>
+      <div onclick='handleScroll("js-content")' class='menu'>Services</div>
+      <div onclick='handleScroll("js-contact")' class='menu'>Contact</div>
+    </nav>
+    <div class='bg-wr'>
+      <img id='js-main-img-1' class='main-img-partial-bw' src='./img/banner-bw-m.jpg' />
+      <img id='js-main-img-2' class='main-img-partial-col' src='./img/banner-col-m.jpg' />
+      <img id='js-main-img-3' class='main-img-full' src='./img/banner-full-m.jpg' />
+    </div>
+    <header id='js-header' class='header'>
+      <div id='js-banner-wr' class='text-head-wr'>
+        <span id='js-type-01' class='text-head type-text'></span>
+        <span id='js-space-01' class='text-head hidden'>&nbsp;</span>
+        <br id='js-next-01' class='hidden' />
+        <span id='js-type-02' class='text-head type-text'></span>
+        <span id='js-space-02' class='text-head hidden'>&nbsp;</span>
+        <br id='js-next-02' class='hidden' />
+        <span id='js-type-03' class='text-head type-text'></span>
+        <div id='js-link' class='link-details-wr'>
+          <div onclick='handleScroll("js-content")' class='link-details'><span id='js-link-details'>Details &gt;</span></div>
+        </div>
+      </div>
+    </header>
+    <main id ='js-content' rol='content' class='layout-wr'>
+      <div class='two-col-wr'>
+        <div id='js-main-title'  class='two-col-title'></div>
+        <div id='js-main-desc'  class='two-col-desc'>
+          <ul style="margin-left: -20px">
+            <li>
+              <span class='font-sb'>Expert Guidance:</span> Our team of graphic design experts has extensive experience in various field from personal portfollio to small business.
+            </li>
+            <li>
+              <span class='font-sb'>Tailored Solutions:</span> We understand that every goal is unique. Our recommendations are customized to meet your specific needs and challenges.
+
+            </li>
+            <li>
+              <span class='font-sb'>Practical Advice:</span> We provide actionable steps that are easy to start, ensuring that your business or careers scured without overwhelming burdens to follow not afterworks.
+
+            </li>
+            <li>
+              <span class='font-sb'>Ongoing Support:</span> User experience is evolving. We are here to support you every step of the way, helping you stay ahead of outdated trends.
+
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class='one-col-wr'>
+        <div id='js-feat-title' class='one-col-title'></div>
+        <div class='tile-list-wr'>
+          <div class='tile-wr'>
+            <div class='tile thumb-design'>
+              <img src='./icon/accessories.svg' />
+              <span id='js-feat1-title' class='tile-title'></span>
+              <span id='js-feat1-desc' class='tile-text'></span>
+            </div>
+          </div>
+          <div class='tile-wr'>
+            <div class='tile thumb-branding'>
+              <img src='./icon/service.png' />
+              <span id='js-feat2-title' class='tile-title'></span>
+              <span id='js-feat2-desc' class='tile-text'></span>
+            </div>
+          </div>
+          <!-- <div class='tile-wr'>
+            <div class='tile thumb-dollar'>
+              <img src='./icon/dollar-ak.jpg' />
+              <span id='js-feat3-title' class='tile-title'></span>
+              <span id='js-feat3-desc' class='tile-text'></span>
+            </div>
+          </div> -->
+        </div>
+      </div>
+
+      <div id='js-contact' class='contact-wr'>
+        <div id='js-notice-wr' class='notice-wr hidden'>
+          <div id='js-notice-success' class='notice hidden'></div>
+          <div id='js-notice-err' class='notice notice-err hidden'></div>
+        </div>  
+        <div class='sec-wr'>
+          <div class='sec-title mb-16px'>How to Get Started</div>
+          <div id='js-contact-desc' class='sec-desc text'></div>
+          <div id='js-contact-desc2' class='sec-desc text'></div>
+        </div>
+        <form id='js-contact-form' action='https://formspree.io/f/yourid' method="POST" class='contact-form-wr'>
+        </form>
+      </div>
+    </main>
+    <footer id='js-footer' class='footer'></footer>
+  </body>
+  <script type="text/javascript" src="./js/common.js"></script>
+  <script type="text/javascript" src="./CUSTOM.js"></script>
+  <script type="text/javascript" src="./js/scroll.js"></script>
+  <script type="text/javascript" src="./js/contact.js"></script>
+  <script type="text/javascript" src="./js/type.js"></script>
+  <script type="text/javascript" src="./js/index.js"></script>
+</html>
