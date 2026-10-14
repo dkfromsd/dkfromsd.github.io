@@ -42,7 +42,7 @@ Sep 27, 2026 · @Dokyu Lee
 
 1958년 리우, 세 사람이 삼바를 기타 한 대와 속삭이는 목소리로 압축했다. 작곡가 안토니우 카를루스 조빙, 시인 비니시우스 지 모라이스, 기타리스트 주앙 지우베르투다. "보사노바"는 "새로운 방식"이라는 뜻이다.
 
-아티스트 노트: [[Artist - Tom Jobim|톰 조빙]] · [[Artist - Vinicius de Moraes|비니시우스 지 모라이스]] · [[Artist - Getz and Gilberto|주앙 지우베르투 & 스탠 게츠]] · [[Artist - Luiz Bonfa|루이스 본파]] · [[Artist - Marcos Valle|마르코스 발리]]
+아티스트 노트: [[Artist - Tom Jobim|톰 조빙]] · [[Artist - Vinicius de Moraes|비니시우스 지 모라이스]] · [[Artist - Getz and Gilberto|주앙 지우베르투 & 스탠 게츠]] · [[Artist - Luiz Bonfa|루이스 본파]] · [[Artist - Marcos Valle|마르코스 발리]] · [[Artist - Sergio Mendez|세르지우 멘지스]]
 
 - **탄생**: [Chega de Saudade](https://www.youtube.com/results?search_query=Chega+de+Saudade+Joao+Gilberto+1958)(1958, "그리움은 이제 그만"), [Desafinado](https://www.youtube.com/results?search_query=Desafinado+Joao+Gilberto+1959)(1959, "음치"라는 비난에 대한 재치있는 반박)
 - **프랑스 영화**: _흑인 오르페_(1959, 칸 황금종려상)의 [Manhã de Carnaval](https://www.youtube.com/results?search_query=Manha+de+Carnaval+Luiz+Bonfa+Orfeu+Negro)이 세계에 보사노바를 처음 알렸다.
@@ -123,7 +123,7 @@ Sep 27, 2026 · @Dokyu Lee
 |4|[Desafinado](https://www.youtube.com/results?search_query=Desafinado+Joao+Gilberto+1959)|[[Artist - Getz and Gilberto\|주앙 지우베르투]]|1959|보사노바|
 |5|[The Girl from Ipanema](https://www.youtube.com/results?search_query=The+Girl+from+Ipanema+Getz+Gilberto+Astrud)|[[Artist - Getz and Gilberto\|게츠 & 지우베르투]]|1964|보사노바|
 |6|[Samba de Verão](https://www.youtube.com/results?search_query=Samba+de+Verao+Marcos+Valle)|[[Artist - Marcos Valle\|마르코스 발리]]|1965|삼바|
-|7|[Mas Que Nada](https://www.youtube.com/results?search_query=Mas+Que+Nada+Sergio+Mendes+Brasil+66)|세르지우 멘지스 & 브라질 '66|1966|삼바|
+|7|[Mas Que Nada](https://www.youtube.com/results?search_query=Mas+Que+Nada+Sergio+Mendes+Brasil+66)|[[Artist - Sergio Mendez\|세르지우 멘지스]] & 브라질 '66|1966|삼바|
 |8|[카르멘 "하바네라"](https://www.youtube.com/results?search_query=Carmen+Habanera+Bizet)|비제|1875|하바네라|
 |9|[Libertango](https://www.youtube.com/watch?v=t83XjF04r80)|[[Artist - Astor Piazzolla\|피아졸라]]|1974|탱고|
 |10|[Oblivion](https://www.youtube.com/watch?v=Hj7B3jhbAHA)|[[Artist - Astor Piazzolla\|피아졸라]]|1982|탱고|
