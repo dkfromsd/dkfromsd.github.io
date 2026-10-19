@@ -2,6 +2,28 @@
 
 ---
 
+## 🟢 Spotify로 미리 듣기: 조빔 앨범 서가
+
+> 감상회 전에 편하게 둘러보실 수 있도록 앨범 단위로 모았습니다. 🎧 [Spotify 아티스트 페이지 – Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG)
+
+| 연도 | 앨범 | 이런 분께 | Spotify |
+|---|---|---|---|
+| 1958 | Canção do Amor Demais (Elizeth Cardoso) | 보사노바가 태어나는 순간을 듣고 싶은 분 | [듣기](https://open.spotify.com/album/1VgXD2o7ZOZQ8ZRnrPZ5ii) |
+| 1959 | Chega de Saudade (João Gilberto) | 주앙 질베르토의 첫 앨범 (재발매판) | [듣기](https://open.spotify.com/album/41JAsO1MRbFj0w1R8bVczm) |
+| 1959 | Black Orpheus OST (Orfeu Negro) | 영화 음악으로 시작하고 싶은 분 (리마스터판) | [듣기](https://open.spotify.com/album/5rd8sBToQSyU5dPfdbOG7m) |
+| 1962 | Jazz Samba (Stan Getz & Charlie Byrd) | 미국 보사노바 붐의 출발점 | [듣기](https://open.spotify.com/album/02RHeW2EeunpzF2qsMjHSv) |
+| 1962 | The Composer of Desafinado, Plays | 조빔이 직접 피아노로 들려주는 대표곡 모음 | [듣기](https://open.spotify.com/album/3JxkwIDOcVycFb3CTjpZk9) |
+| 1964 | Getz/Gilberto | 처음이라면 여기서부터 | [듣기](https://open.spotify.com/album/08HyQbnGbDvcZmEM5hPRrr) |
+| 1967 | Francis Albert Sinatra & Antonio Carlos Jobim | 시나트라의 목소리로 듣는 조빔 | [듣기](https://open.spotify.com/album/4xapHy6wzVWQq1xh6pkDtW) |
+| 1967 | Wave | 가사 없는 조빔, 클라우스 오거먼의 편곡 | [듣기](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) |
+| 1970 | Stone Flower | 깊고 어두운 오케스트라 조빔 (재발매판) | [듣기](https://open.spotify.com/album/2J6tdM3aRGFhVymhblz21m) |
+| 1974 | Elis & Tom | 조빔 팬이라면 반드시 | [듣기](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) |
+| 1976 | Urubu | 아마존과 자연을 그린 대작 | [듣기](https://open.spotify.com/album/7zwet6vO9BLGx8mUDxNfyD) |
+| 1987 | Passarim | 가족 밴드 Banda Nova와 함께한 후기작 | [듣기](https://open.spotify.com/album/2K9aMQfhBVV5hrkfZiaxkY) |
+| 1994 | Antonio Brasileiro | 마지막 앨범 | [듣기](https://open.spotify.com/album/6zhgPWRh0no9DOSU2WuRPF) |
+
+---
+
 ## 연대기로 보는 조빔의 삶
 
 ### 1. 음악적 기반과 형성기 (1927 ~ 1950년대 중반)
@@ -13,26 +35,26 @@
 ### 2. 보사노바의 탄생 (1956 ~ 1959년)
 
 - 1956년: 시인이자 외교관 **비니시우스 드 모라이스(Vinicius de Moraes)** 와 만나 연극 《Orfeu da Conceição》의 음악을 맡으며 평생의 파트너십이 시작됩니다.
-- 1958년: 엘리제치 카르도주의 앨범 《Canção do Amor Demais》에 〈Chega de Saudade〉가 처음 실렸고, 같은 해 **주앙 질베르토(João Gilberto)** 가 절제된 속삭이는 창법과 독특한 기타 리듬(바치다, batida)으로 이 곡을 녹음하면서 **'보사노바(새로운 경향)'** 가 탄생했습니다. 이 녹음의 편곡자가 조빔입니다.
-- 1959년: 영화 《흑인 오르페(Orfeu Negro / Black Orpheus)》에 루이스 봉파(Luiz Bonfá)와 함께 음악을 제공. 영화는 **칸 황금종려상(1959)** 과 **아카데미 외국어영화상(1960)** 을 받아 보사노바가 세계에 알려졌습니다.
+- 1958년: 엘리제치 카르도주의 앨범 《Canção do Amor Demais》에 〈Chega de Saudade〉가 처음 실렸고, 같은 해 **주앙 질베르토(João Gilberto)** 가 절제된 속삭이는 창법과 독특한 기타 리듬(바치다, batida)으로 이 곡을 녹음하면서 **'보사노바(새로운 경향)'** 가 탄생했습니다. 이 녹음의 편곡자가 조빔입니다. 🟢 [Canção do Amor Demais](https://open.spotify.com/album/1VgXD2o7ZOZQ8ZRnrPZ5ii) · [Chega de Saudade](https://open.spotify.com/album/41JAsO1MRbFj0w1R8bVczm)
+- 1959년: 영화 《흑인 오르페(Orfeu Negro / Black Orpheus)》에 루이스 봉파(Luiz Bonfá)와 함께 음악을 제공. 영화는 **칸 황금종려상(1959)** 과 **아카데미 외국어영화상(1960)** 을 받아 보사노바가 세계에 알려졌습니다. 🟢 [Black Orpheus OST](https://open.spotify.com/album/5rd8sBToQSyU5dPfdbOG7m)
 
 ### 3. 세계적인 열풍과 미국 진출 (1960년대)
 
 - 1962년: 뉴욕 카네기 홀 보사노바 콘서트. 같은 해 스탠 게츠 & 찰리 버드의 《Jazz Samba》가 미국에서 히트합니다.
-- 1964년: 명반 《Getz/Gilberto》 발매 (조빔 피아노 참여). 1965년 그래미 '올해의 앨범상', 〈The Girl from Ipanema〉는 **'올해의 레코드상'** 을 받았습니다.
-- 1967년: 프랭크 시나트라와의 협업 앨범 《Francis Albert Sinatra & Antonio Carlos Jobim》, 그리고 연주 명반 《Wave》 발표.
+- 1964년: 명반 《Getz/Gilberto》 발매 (조빔 피아노 참여). 1965년 그래미 '올해의 앨범상', 〈The Girl from Ipanema〉는 **'올해의 레코드상'** 을 받았습니다. 🟢 [Getz/Gilberto](https://open.spotify.com/album/08HyQbnGbDvcZmEM5hPRrr)
+- 1967년: 프랭크 시나트라와의 협업 앨범 《Francis Albert Sinatra & Antonio Carlos Jobim》, 그리고 연주 명반 《Wave》 발표. 🟢 [Sinatra & Jobim](https://open.spotify.com/album/4xapHy6wzVWQq1xh6pkDtW) · [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T)
 
 ### 4. 음악적 성숙과 자연으로의 귀환 (1970년대 ~ 1980년대)
 
-- 1970년: 《Stone Flower》, 《Tide》 등 CTI 레이블에서 깊이 있는 오케스트라 작품을 발표.
+- 1970년: 《Stone Flower》, 《Tide》 등 CTI 레이블에서 깊이 있는 오케스트라 작품을 발표. 🟢 [Stone Flower](https://open.spotify.com/album/2J6tdM3aRGFhVymhblz21m)
 - 1972년: 〈Águas de Março〉 작곡.
-- 1974년: 브라질 최고의 보컬리스트 **엘리스 레지나(Elis Regina)** 와 LA에서 녹음한 《Elis & Tom》 발표 — 〈Águas de Março〉 듀엣은 브라질 대중음악 최고의 녹음으로 꼽힙니다.
-- 1976년: 《Urubu》 — 아마존과 브라질 자연을 주제로 한 작품.
-- 1980년대: 가족·친구들로 구성된 밴드 Banda Nova와 함께 활동하며 환경 보호와 열대우림을 주제로 한 앨범 《Passarim》(1987) 등을 발표했습니다.
+- 1974년: 브라질 최고의 보컬리스트 **엘리스 레지나(Elis Regina)** 와 LA에서 녹음한 《Elis & Tom》 발표 — 〈Águas de Março〉 듀엣은 브라질 대중음악 최고의 녹음으로 꼽힙니다. 🟢 [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx)
+- 1976년: 《Urubu》 — 아마존과 브라질 자연을 주제로 한 작품. 🟢 [Urubu](https://open.spotify.com/album/7zwet6vO9BLGx8mUDxNfyD)
+- 1980년대: 가족·친구들로 구성된 밴드 Banda Nova와 함께 활동하며 환경 보호와 열대우림을 주제로 한 앨범 《Passarim》(1987) 등을 발표했습니다. 🟢 [Passarim](https://open.spotify.com/album/2K9aMQfhBVV5hrkfZiaxkY)
 
 ### 5. 거장의 유산 (1990년대 ~ 현재)
 
-- 1994년 12월 8일: 뉴욕 **마운트 시나이 병원(Mount Sinai Hospital)** 에서 수술 후 심장마비(심부전)로 별세 (향년 67세). 마지막 음반 **《Antonio Brasileiro》** 는 그의 사후에 발매되어 1996년 그래미(최우수 라틴 재즈 퍼포먼스)를 받았습니다.
+- 1994년 12월 8일: 뉴욕 **마운트 시나이 병원(Mount Sinai Hospital)** 에서 수술 후 심장마비(심부전)로 별세 (향년 67세). 마지막 음반 **《Antonio Brasileiro》** 는 그의 사후에 발매되어 1996년 그래미(최우수 라틴 재즈 퍼포먼스)를 받았습니다. 🟢 [Antonio Brasileiro](https://open.spotify.com/album/6zhgPWRh0no9DOSU2WuRPF)
 - 1999년: 리우데자네이루 국제공항이 **'갈레앙–안토니오 카를로스 조빔 국제공항(GIG)'** 으로 명명되었습니다.
 - 〈The Girl from Ipanema〉는 비틀스의 〈Yesterday〉 다음으로 많이 녹음된 대중가요로 자주 언급되며, 그의 곡들은 지금도 재즈·팝·클래식 무대의 스탠다드로 연주되고 있습니다.
 
@@ -68,6 +90,7 @@
 
 - 추천 감상: Stan Getz & João Gilberto feat. Astrud Gilberto (1964, Getz/Gilberto)
 - 🎧 YouTube: [Getz/Gilberto 버전](https://www.youtube.com/results?search_query=The+Girl+from+Ipanema+Getz+Gilberto+Astrud) · [Tom Jobim 본인 연주](https://www.youtube.com/results?search_query=Garota+de+Ipanema+Tom+Jobim+live) · [Frank Sinatra & Jobim](https://www.youtube.com/results?search_query=Sinatra+Jobim+The+Girl+from+Ipanema)
+- 🟢 Spotify 앨범: [Getz/Gilberto (1964)](https://open.spotify.com/album/08HyQbnGbDvcZmEM5hPRrr) · [Sinatra & Jobim (1967)](https://open.spotify.com/album/4xapHy6wzVWQq1xh6pkDtW) · [The Composer of Desafinado, Plays](https://open.spotify.com/album/3JxkwIDOcVycFb3CTjpZk9)
 - 📝 가사: [포르투갈어 (Letras)](https://www.letras.mus.br/?q=Garota%20de%20Ipanema%20Tom%20Jobim) · [영어 (Genius)](https://genius.com/search?q=The%20Girl%20from%20Ipanema)
 - 💡 수업 포인트: 이파네마 해변의 카페 '벨로주(Veloso)'에서 지나가던 소녀 엘로이자 피녜이루를 보고 쓴 곡. 카페는 지금 'Garota de Ipanema'로 이름이 바뀌었습니다.
 
@@ -75,6 +98,7 @@
 
 - 추천 감상: João Gilberto (1959) / Stan Getz & Charlie Byrd (1962, Jazz Samba)
 - 🎧 YouTube: [João Gilberto](https://www.youtube.com/results?search_query=Desafinado+Joao+Gilberto) · [Getz & Byrd](https://www.youtube.com/results?search_query=Desafinado+Stan+Getz+Charlie+Byrd)
+- 🟢 Spotify 앨범: [Jazz Samba (1962)](https://open.spotify.com/album/02RHeW2EeunpzF2qsMjHSv) · [The Composer of Desafinado, Plays](https://open.spotify.com/album/3JxkwIDOcVycFb3CTjpZk9) · [Getz/Gilberto](https://open.spotify.com/album/08HyQbnGbDvcZmEM5hPRrr)
 - 📝 가사: [포르투갈어 (Letras)](https://www.letras.mus.br/?q=Desafinado%20Tom%20Jobim) · [영어 (Genius)](https://genius.com/search?q=Desafinado%20Jobim)
 - 💡 수업 포인트: 반음 낮춘 음(♭5)을 일부러 넣어 "음치처럼 들리는" 멜로디가 곧 새로운 화성 감각임을 보여줍니다.
 
@@ -82,18 +106,21 @@
 
 - 추천 감상: Tom Jobim (1967, 앨범 Wave, 편곡 Claus Ogerman)
 - 🎧 YouTube: [Jobim Wave 원곡](https://www.youtube.com/results?search_query=Antonio+Carlos+Jobim+Wave+1967) · [Sinatra & Jobim](https://www.youtube.com/results?search_query=Sinatra+Jobim+Wave)
+- 🟢 Spotify 앨범: [Wave (1967)](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T)
 - 📝 가사: [포르투갈어 (Letras)](https://www.letras.mus.br/?q=Wave%20Tom%20Jobim) · [영어 (Genius)](https://genius.com/search?q=Wave%20Jobim)
 
 ### 4. Corcovado (Quiet Nights of Quiet Stars)
 
 - 추천 감상: Getz/Gilberto feat. Astrud Gilberto (1964)
 - 🎧 YouTube: [Getz/Gilberto](https://www.youtube.com/results?search_query=Corcovado+Getz+Gilberto) · [Tom Jobim](https://www.youtube.com/results?search_query=Corcovado+Tom+Jobim)
+- 🟢 Spotify 앨범: [Getz/Gilberto](https://open.spotify.com/album/08HyQbnGbDvcZmEM5hPRrr) · [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) · [Sinatra & Jobim](https://open.spotify.com/album/4xapHy6wzVWQq1xh6pkDtW)
 - 📝 가사: [포르투갈어 (Letras)](https://www.letras.mus.br/?q=Corcovado%20Tom%20Jobim) · [영어 (Genius)](https://genius.com/search?q=Quiet%20Nights%20of%20Quiet%20Stars)
 
 ### 5. Águas de Março (Waters of March)
 
 - 추천 감상: Elis Regina & Tom Jobim (1974, Elis & Tom)
 - 🎧 YouTube: [Elis & Tom](https://www.youtube.com/results?search_query=Aguas+de+Marco+Elis+Regina+Tom+Jobim) · [Jobim 영어 버전](https://www.youtube.com/results?search_query=Waters+of+March+Jobim+English)
+- 🟢 Spotify 앨범: [Elis & Tom (1974)](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx)
 - 📝 가사: [포르투갈어 (Letras)](https://www.letras.mus.br/?q=%C3%81guas%20de%20Mar%C3%A7o%20Tom%20Jobim) · [영어 (Genius)](https://genius.com/search?q=Waters%20of%20March%20Jobim)
 - 💡 수업 포인트: "나무 막대, 돌, 길의 끝…" 명사를 끝없이 나열하는 가사. 남반구의 3월은 여름의 끝, 장마철이라는 점을 함께 설명하면 좋습니다. 영어 가사도 조빔이 직접 썼습니다.
 
@@ -101,6 +128,7 @@
 
 - 추천 감상: Stan Getz & Charlie Byrd (1962) / João Gilberto
 - 🎧 YouTube: [Getz & Byrd](https://www.youtube.com/results?search_query=One+Note+Samba+Stan+Getz+Charlie+Byrd) · [Jobim](https://www.youtube.com/results?search_query=Samba+de+Uma+Nota+So+Tom+Jobim)
+- 🟢 Spotify 앨범: [Jazz Samba (1962)](https://open.spotify.com/album/02RHeW2EeunpzF2qsMjHSv) · [The Composer of Desafinado, Plays](https://open.spotify.com/album/3JxkwIDOcVycFb3CTjpZk9)
 - 📝 가사: [포르투갈어 (Letras)](https://www.letras.mus.br/?q=Samba%20de%20Uma%20Nota%20S%C3%B3) · [영어 (Genius)](https://genius.com/search?q=One%20Note%20Samba)
 - 💡 수업 포인트: 멜로디는 한 음에 머무는데 아래 화성이 계속 바뀝니다 — "같은 음도 화성이 바뀌면 다른 색이 된다"를 귀로 체험하는 곡.
 
@@ -108,6 +136,7 @@
 
 - 추천 감상: João Gilberto (1958 싱글 / 1959 앨범 Chega de Saudade)
 - 🎧 YouTube: [João Gilberto](https://www.youtube.com/results?search_query=Chega+de+Saudade+Joao+Gilberto+1958) · [Elizeth Cardoso 최초 녹음](https://www.youtube.com/results?search_query=Chega+de+Saudade+Elizeth+Cardoso)
+- 🟢 Spotify 앨범: [Canção do Amor Demais (Elizeth, 1958)](https://open.spotify.com/album/1VgXD2o7ZOZQ8ZRnrPZ5ii) · [João Gilberto – Chega de Saudade](https://open.spotify.com/album/41JAsO1MRbFj0w1R8bVczm)
 - 📝 가사: [포르투갈어 (Letras)](https://www.letras.mus.br/?q=Chega%20de%20Saudade) · [영어 (Genius)](https://genius.com/search?q=Chega%20de%20Saudade)
 - 💡 수업 포인트: 같은 해 엘리제치 카르도주의 전통적 창법 버전과 주앙 질베르토 버전을 나란히 들어보면 '보사노바가 무엇이 새로웠는지'가 바로 드러납니다.
 
@@ -115,18 +144,21 @@
 
 - 추천 감상: João Gilberto / Astrud Gilberto
 - 🎧 YouTube: [Insensatez](https://www.youtube.com/results?search_query=Insensatez+Tom+Jobim) · [비교: 쇼팽 Prelude Op.28 No.4](https://www.youtube.com/results?search_query=Chopin+Prelude+Op+28+No+4)
+- 🟢 Spotify 앨범: [Sinatra & Jobim – How Insensitive](https://open.spotify.com/album/4xapHy6wzVWQq1xh6pkDtW)
 - 📝 가사: [포르투갈어 (Letras)](https://www.letras.mus.br/?q=Insensatez%20Tom%20Jobim) · [영어 (Genius)](https://genius.com/search?q=How%20Insensitive%20Jobim)
 
 ### 9. Dindi
 
 - 추천 감상: Sylvia Telles (1959, 최초 녹음) / Astrud Gilberto
 - 🎧 YouTube: [Dindi](https://www.youtube.com/results?search_query=Dindi+Tom+Jobim) · [Astrud Gilberto](https://www.youtube.com/results?search_query=Dindi+Astrud+Gilberto)
+- 🟢 Spotify 앨범: [Sinatra & Jobim – Dindi](https://open.spotify.com/album/4xapHy6wzVWQq1xh6pkDtW)
 - 📝 가사: [포르투갈어 (Letras)](https://www.letras.mus.br/?q=Dindi%20Tom%20Jobim) · [영어 (Genius)](https://genius.com/search?q=Dindi%20Jobim)
 
 ### 10. Meditação (Meditation)
 
 - 추천 감상: João Gilberto (1960) / Getz/Gilberto
 - 🎧 YouTube: [Meditação](https://www.youtube.com/results?search_query=Meditacao+Joao+Gilberto) · [Meditation (Jazz)](https://www.youtube.com/results?search_query=Meditation+Jobim+jazz)
+- 🟢 Spotify 앨범: [Sinatra & Jobim – Meditation](https://open.spotify.com/album/4xapHy6wzVWQq1xh6pkDtW)
 - 📝 가사: [포르투갈어 (Letras)](https://www.letras.mus.br/?q=Medita%C3%A7%C3%A3o%20Tom%20Jobim) · [영어 (Genius)](https://genius.com/search?q=Meditation%20Jobim)
 
 **Andrea Motis**  -  Andrea Motis (Vocal and Trumpet ) & Joan Chamorro quintet + Scott Hamilton
@@ -201,7 +233,7 @@ https://www.youtube.com/watch?v=mN5iLTA_tkA&list=RDmN5iLTA_tkA&start_radio=1
 
 ### 🎧 앨범 듣기
 
-- [Spotify에서 검색](https://open.spotify.com/search/Can%C3%A7%C3%A3o%20do%20Amor%20Demais%20Elizeth%20Cardoso)
+- 🟢 [Spotify 앨범 듣기](https://open.spotify.com/album/1VgXD2o7ZOZQ8ZRnrPZ5ii)
 - [YouTube 전곡 (Full Album)](https://www.youtube.com/results?search_query=Elizeth+Cardoso+Can%C3%A7%C3%A3o+do+Amor+Demais+1958+full+album)
 - [AllMusic 앨범 정보](https://www.allmusic.com/album/MW0000811121)
 - [Wikipedia – Canção do Amor Demais](https://en.wikipedia.org/wiki/Can%C3%A7%C3%A3o_do_Amor_Demais)

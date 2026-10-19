@@ -354,7 +354,8 @@ for t in TRACKS:
     urls = defaultdict(list)
     for d in DOCS:
         for sid, text, href in d.links:
-            if href.startswith("http") and mentions(text, al):
+            # Spotify 앨범 링크는 곡별 유튜브 링크 일관성 점검에서 제외
+            if href.startswith("http") and "spotify.com" not in href and mentions(text, al):
                 urls[href].append(d.slug)
     t["urls"] = dict(urls)
     t["artist_html"] = inline(t["artist_md"], prog)
