@@ -2,6 +2,21 @@
 
 ---
 
+## 🟢 Spotify로 미리 듣기: 봉파 앨범 서가
+
+> 감상회 전에 편하게 둘러보실 수 있도록 앨범 단위로 모았습니다. 🎧 [Spotify 아티스트 페이지 – Luiz Bonfá](https://open.spotify.com/artist/3J8aTKehMv97Te9EBIdJEh)
+
+| 연도 | 앨범 | 이런 분께 | Spotify |
+|---|---|---|---|
+| 1958 | ¡Amor! The Fabulous Guitar of Luiz Bonfá | 보사노바 직전, 봉파 기타의 원형 (재발매판) | [듣기](https://open.spotify.com/album/7bIHd7Q6Q6KnXP8De4zKPr) |
+| 1959 | Solo in Rio 1959 | 기타 한 대로 듣는 봉파. 스미스소니언 포크웨이즈 발굴 녹음 | [듣기](https://open.spotify.com/album/60xmVPU5u2ABpEqi2g8ZIn) |
+| 1959 | Black Orpheus OST (Orfeu Negro) | Manhã de Carnaval의 원래 자리 (리마스터판) | [듣기](https://open.spotify.com/album/5rd8sBToQSyU5dPfdbOG7m) |
+| 1962 | Luiz Bonfá Plays and Sings Bossa Nova | 미국 Verve 데뷔작 | [듣기](https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ) |
+| 1963 | Jazz Samba Encore! (Stan Getz) | 스탠 게츠와의 협연 | [듣기](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) |
+| 1965 | The Gentle Rain OST | 에우미르 데오다투와 만든 영화 음악 | [듣기](https://open.spotify.com/album/23MvjGTP87h6tNXmErJgMN) |
+
+---
+
 ### 1. 성장과 수련 (1922 ~ 1940년대)
 
 - 1922년 10월 17일: 리우데자네이루에서 이탈리아계 이민자 아버지의 아들로 태어났습니다. 리우 서쪽 끝 **산타크루스(Santa Cruz)** 에서 자랐습니다.
@@ -14,14 +29,14 @@
 - 1950년대 초중반: 가수 **지키 파르니(Dick Farney)** 가 봉파의 초기 곡 〈Ranchinho de Palha〉, 〈O Vento Não Sabe〉를 녹음했습니다. 파르니를 통해 톰 조빔, 비니시우스 드 모라이스를 만나게 됩니다,
 - 1956년: 비니시우스의 연극 《Orfeu da Conceição》에 음악을 보탰습니다.
 - 1957년: 노라 네이가 부른 〈De Cigarro em Cigarro〉가 첫 히트곡이 되었습니다.
-- 1958년: 미국 Atlantic 레이블에서 《¡Amor! The Fabulous Guitar of Luiz Bonfá》를 발표했습니다.
+- 1958년: 미국 Atlantic 레이블에서 《¡Amor! The Fabulous Guitar of Luiz Bonfá》를 발표했습니다. 🟢 [¡Amor!](https://open.spotify.com/album/7bIHd7Q6Q6KnXP8De4zKPr)
 
 ### 3. 《흑인 오르페》와 세계 무대 (1959 ~ 1960년대)
 
-- 1959년: 마르셀 카뮈 감독의 영화 **《흑인 오르페(Orfeu Negro)》** 에 조빔과 함께 음악을 맡아 〈Manhã de Carnaval〉, 〈Samba de Orfeu〉를 작곡했습니다. 영화는 칸 황금종려상(1959)과 아카데미 외국어영화상(1960)을 받았습니다
-- 1962년 11월: 뉴욕 카네기 홀 보사노바 콘서트에 출연한 뒤 미국에서 활동을 넓혔습니다. 같은 해 Verve에서 《Luiz Bonfá Plays and Sings Bossa Nova》를 냈습니다.
-- 1963년: 스탠 게츠와 함께 《Jazz Samba Encore!》를 녹음했습니다.
-- 1965년: 영화 《The Gentle Rain》 음악을 에우미르 데오다투(Eumir Deodato)와 함께 만들었고, 마리아 톨레두(Maria Helena Toledo)와 앨범 《Braziliana》를 냈습니다. 퀸시 존스, 토니 베넷의 앨범에도 참여했습니다.
+- 1959년: 마르셀 카뮈 감독의 영화 **《흑인 오르페(Orfeu Negro)》** 에 조빔과 함께 음악을 맡아 〈Manhã de Carnaval〉, 〈Samba de Orfeu〉를 작곡했습니다. 영화는 칸 황금종려상(1959)과 아카데미 외국어영화상(1960)을 받았습니다. 🟢 [Black Orpheus OST](https://open.spotify.com/album/5rd8sBToQSyU5dPfdbOG7m) · [Solo in Rio 1959](https://open.spotify.com/album/60xmVPU5u2ABpEqi2g8ZIn)
+- 1962년 11월: 뉴욕 카네기 홀 보사노바 콘서트에 출연한 뒤 미국에서 활동을 넓혔습니다. 같은 해 Verve에서 《Luiz Bonfá Plays and Sings Bossa Nova》를 냈습니다. 🟢 [Plays and Sings Bossa Nova](https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ)
+- 1963년: 스탠 게츠와 함께 《Jazz Samba Encore!》를 녹음했습니다. 🟢 [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc)
+- 1965년: 영화 《The Gentle Rain》 음악을 에우미르 데오다투(Eumir Deodato)와 함께 만들었고, 마리아 톨레두(Maria Helena Toledo)와 앨범 《Braziliana》를 냈습니다. 퀸시 존스, 토니 베넷의 앨범에도 참여했습니다. 🟢 [The Gentle Rain OST](https://open.spotify.com/album/23MvjGTP87h6tNXmErJgMN)
 - 1968년: 엘비스 프레슬리가 영화 《Live a Little, Love a Little》에서 〈Almost in Love〉를 불렀습니다.
 - 1969년: 프랭크 시나트라의 《My Way》, 조지 벤슨의 《I Got a Woman and Some Blues》 작업에 참여했습니다.
 

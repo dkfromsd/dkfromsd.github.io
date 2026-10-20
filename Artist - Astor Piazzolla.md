@@ -4,6 +4,20 @@
 
 춤추기 위한 음악이던 탱고에 클래식의 대위법과 푸가, 재즈의 즉흥과 화성을 더해 감상용 예술 음악으로 바꾼 작곡가이자 반도네온 연주자입니다. 그가 만든 새로운 탱고를 **"누에보 탱고(Nuevo Tango, 새로운 탱고)"**라고 부릅니다.
 
+---
+
+## 🟢 Spotify로 미리 듣기: 피아졸라 앨범 서가
+
+> 감상회 전에 편하게 둘러보실 수 있도록 앨범 단위로 모았습니다. 🎧 [Spotify 아티스트 페이지 – Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg)
+
+| 연도 | 앨범 | 이런 분께 | Spotify |
+|---|---|---|---|
+| 1968 | María de Buenos Aires | 탱고 오페리타를 통째로 (재발매판) | [듣기](https://open.spotify.com/album/48AyLk9fbxfWWFWzHPDtwi) |
+| 1974 | Libertango | 처음이라면 여기서부터. 밀라노 녹음 | [듣기](https://open.spotify.com/album/1CuAcz0JFL9Te3RMU6hHgS) |
+| 1983 | Adiós Nonino | 아버지에게 바친 대표곡이 담긴 앨범 | [듣기](https://open.spotify.com/album/51DQzUT57yxd9g89HZywaD) |
+| 1986 | Tango: Zero Hour | 피아졸라 자신이 꼽은 최고의 음반 (재발매판) | [듣기](https://open.spotify.com/album/6NNvUtOmrKH7DlRUfnbx7d) |
+| 1997 | Soul of the Tango (요요마) | 첼로로 듣는 피아졸라. Libertango, Le Grand Tango | [듣기](https://open.spotify.com/album/7zMdff76vmlP271JBTLxto) |
+| 2000 | Eight Seasons (기돈 크레머) | 비발디 《사계》와 부에노스아이레스의 사계를 번갈아 | [듣기](https://open.spotify.com/album/3F9HkwGiVZN0OW2K9Sf6Nh) |
 
 ---
 카를로스 가르델 시대의 가창 및 무도회용 탱고(Tango Canción/Tango de Salón)를 재즈, 클래식 현대 음악과 결합하여 '감상하는 음악'이자 실내악, 콘서트용 음악으로 승화시킨 인물이 바로 아스토르 피아졸라(Astor Piazzolla, 1921~1992)입니다.
@@ -98,7 +112,7 @@
     
 - 1965~1970년: 사계를 부에노스아이레스의 풍경으로 그린 **《Las Cuatro Estaciones Porteñas(부에노스아이레스의 사계)》** 를 썼습니다.
     
-- 1968년: 시인 **오라시오 페레르(Horacio Ferrer)** 와 함께 쓴 '탱고 오페리타' **《María de Buenos Aires》** 를 초연했습니다(가수 아멜리타 발타르).
+- 1968년: 시인 **오라시오 페레르(Horacio Ferrer)** 와 함께 쓴 '탱고 오페리타' **《María de Buenos Aires》** 를 초연했습니다(가수 아멜리타 발타르). 🟢 [María de Buenos Aires](https://open.spotify.com/album/48AyLk9fbxfWWFWzHPDtwi)
     
 - 1969년: 페레르와 함께 쓴 **〈Balada para un loco(미치광이를 위한 발라드)〉** 가 그의 첫 대중적 히트가 되었습니다.
     
@@ -106,11 +120,11 @@
 ### 5. 유럽에서 세계로 (1973 ~ 1988)
 
 - 1973년: 심장마비를 겪은 뒤 이탈리아로 이주했습니다.
-- 1974년 5월: 밀라노에서 **〈Libertango〉** 를 녹음했습니다. 'Libertad(자유)'와 'Tango'를 합친 제목으로, 전통에서 벗어난 자유를 선언한 곡입니다.
+- 1974년 5월: 밀라노에서 **〈Libertango〉** 를 녹음했습니다. 'Libertad(자유)'와 'Tango'를 합친 제목으로, 전통에서 벗어난 자유를 선언한 곡입니다. 🟢 [Libertango](https://open.spotify.com/album/1CuAcz0JFL9Te3RMU6hHgS)
 - 1978년: 제2기 퀸텟을 결성해 약 11년 동안 세계를 순회했습니다.
 - 1982년: 첼리스트 므스티슬라프 로스트로포비치에게 헌정한 첼로·피아노곡 **《Le Grand Tango》** 를 썼습니다(1990년 초연).
 - 1984년: 1982년에 쓴 **〈Oblivion(망각)〉** 이 마르코 벨로키오 감독의 이탈리아 영화 《엔리코 4세》에 쓰였습니다. 같은 해 9월 파리에서 밀바가 프랑스어 가사로 불러 널리 알려졌습니다.
-- 1986년: 제2기 퀸텟과 **《Tango: Zero Hour》** 를 녹음했습니다. 피아졸라 자신이 "지금까지 만든 최고의 음반"이라고 부른 앨범입니다. 같은 해 플루트와 기타를 위한 **《Histoire du Tango》** 를 썼습니다    
+- 1986년: 제2기 퀸텟과 **《Tango: Zero Hour》** 를 녹음했습니다. 피아졸라 자신이 "지금까지 만든 최고의 음반"이라고 부른 앨범입니다. 🟢 [Tango: Zero Hour](https://open.spotify.com/album/6NNvUtOmrKH7DlRUfnbx7d) 같은 해 플루트와 기타를 위한 **《Histoire du Tango》** 를 썼습니다    
 
 ### 6. 마지막 시기와 유산 (1989 ~ 현재)
 
@@ -129,16 +143,16 @@
 
 |#|곡|연도|포인트|링크|
 |---|---|---|---|---|
-|1|Libertango|1974|반복되는 리듬 오스티나토 위의 강렬한 선율. 피아졸라 입문곡|[피아졸라 원곡](https://www.youtube.com/results?search_query=Astor+Piazzolla+Libertango+1974) · [요요마](https://www.youtube.com/results?search_query=Yo-Yo+Ma+Libertango)|
-|2|Adiós Nonino|1959|아버지를 잃은 슬픔. 격렬한 리듬부와 서정적인 선율부의 대비|[피아졸라 라이브](https://www.youtube.com/results?search_query=Astor+Piazzolla+Adios+Nonino+live)|
+|1|Libertango|1974|반복되는 리듬 오스티나토 위의 강렬한 선율. 피아졸라 입문곡|[피아졸라 원곡](https://www.youtube.com/results?search_query=Astor+Piazzolla+Libertango+1974) · [요요마](https://www.youtube.com/results?search_query=Yo-Yo+Ma+Libertango) · 🟢 [Spotify](https://open.spotify.com/album/1CuAcz0JFL9Te3RMU6hHgS)|
+|2|Adiós Nonino|1959|아버지를 잃은 슬픔. 격렬한 리듬부와 서정적인 선율부의 대비|[피아졸라 라이브](https://www.youtube.com/results?search_query=Astor+Piazzolla+Adios+Nonino+live) · 🟢 [Spotify](https://open.spotify.com/album/51DQzUT57yxd9g89HZywaD)|
 |3|Oblivion|1982|느리고 우수 어린 밀롱가. 클래식 연주자들이 사랑하는 곡|[피아졸라](https://www.youtube.com/results?search_query=Astor+Piazzolla+Oblivion)|
-|4|Verano Porteño (부에노스아이레스의 여름)|1965|《사계》의 첫 곡|[YouTube](https://www.youtube.com/results?search_query=Piazzolla+Verano+Porteno)|
-|5|Invierno Porteño (부에노스아이레스의 겨울)|1970|비발디 《사계》와 비교 감상하기 좋은 곡|[YouTube](https://www.youtube.com/results?search_query=Piazzolla+Invierno+Porteno) · [기돈 크레머 'Eight Seasons'](https://www.youtube.com/results?search_query=Gidon+Kremer+Eight+Seasons+Vivaldi+Piazzolla)|
+|4|Verano Porteño (부에노스아이레스의 여름)|1965|《사계》의 첫 곡|[YouTube](https://www.youtube.com/results?search_query=Piazzolla+Verano+Porteno) · 🟢 [Spotify (크레머)](https://open.spotify.com/album/3F9HkwGiVZN0OW2K9Sf6Nh)|
+|5|Invierno Porteño (부에노스아이레스의 겨울)|1970|비발디 《사계》와 비교 감상하기 좋은 곡|[YouTube](https://www.youtube.com/results?search_query=Piazzolla+Invierno+Porteno) · [기돈 크레머 'Eight Seasons'](https://www.youtube.com/results?search_query=Gidon+Kremer+Eight+Seasons+Vivaldi+Piazzolla) · 🟢 [Spotify](https://open.spotify.com/album/3F9HkwGiVZN0OW2K9Sf6Nh)|
 |6|Balada para un loco|1969|가사: 오라시오 페레르. 낭송과 노래가 섞인 탱고 발라드|[Amelita Baltar](https://www.youtube.com/results?search_query=Balada+para+un+loco+Amelita+Baltar+Piazzolla) · 📝 [가사](https://www.letras.com/?q=Balada%20para%20un%20loco)|
-|7|Yo soy María (《María de Buenos Aires》 중)|1968|탱고 오페리타의 대표 아리아|[YouTube](https://www.youtube.com/results?search_query=Yo+soy+Maria+Piazzolla) · 📝 [가사](https://www.letras.com/?q=Yo%20soy%20Mar%C3%ADa%20Piazzolla)|
-|8|Le Grand Tango|1982|로스트로포비치에게 헌정한 첼로·피아노곡|[YouTube](https://www.youtube.com/results?search_query=Piazzolla+Le+Grand+Tango+cello)|
+|7|Yo soy María (《María de Buenos Aires》 중)|1968|탱고 오페리타의 대표 아리아|[YouTube](https://www.youtube.com/results?search_query=Yo+soy+Maria+Piazzolla) · 📝 [가사](https://www.letras.com/?q=Yo%20soy%20Mar%C3%ADa%20Piazzolla) · 🟢 [Spotify](https://open.spotify.com/album/48AyLk9fbxfWWFWzHPDtwi)|
+|8|Le Grand Tango|1982|로스트로포비치에게 헌정한 첼로·피아노곡|[YouTube](https://www.youtube.com/results?search_query=Piazzolla+Le+Grand+Tango+cello) · 🟢 [Spotify (요요마)](https://open.spotify.com/album/7zMdff76vmlP271JBTLxto)|
 |9|Histoire du Tango – Café 1930|1986|플루트와 기타로 들려주는 탱고 100년사|[YouTube](https://www.youtube.com/results?search_query=Piazzolla+Histoire+du+Tango+Cafe+1930)|
-|10|《Tango: Zero Hour》 전곡|1986|피아졸라 자신이 꼽은 최고의 음반|[YouTube](https://www.youtube.com/results?search_query=Piazzolla+Tango+Zero+Hour+full+album)|
+|10|《Tango: Zero Hour》 전곡|1986|피아졸라 자신이 꼽은 최고의 음반|[YouTube](https://www.youtube.com/results?search_query=Piazzolla+Tango+Zero+Hour+full+album) · 🟢 [Spotify](https://open.spotify.com/album/6NNvUtOmrKH7DlRUfnbx7d)|
 
   
 

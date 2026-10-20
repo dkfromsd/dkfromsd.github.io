@@ -2,6 +2,21 @@
 
 ---
 
+## 🟢 Spotify로 미리 듣기: 바덴 파웰 앨범 서가
+
+> 감상회 전에 편하게 둘러보실 수 있도록 앨범 단위로 모았습니다. 🎧 [Spotify 아티스트 페이지 – Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr)
+
+| 연도 | 앨범 | 이런 분께 | Spotify |
+|---|---|---|---|
+| 1961 | Um Violão na Madrugada | Improviso em Bossa Nova가 담긴 초기작 (재발매판) | [듣기](https://open.spotify.com/album/7mS5lxYO8R4vtizyP3WtEK) |
+| 1963 | À Vontade | Berimbau, Consolação, Samba Triste | [듣기](https://open.spotify.com/album/6aKvUAb7J4sj2ywlKHaa8X) |
+| 1964 | Le Monde Musical de Baden Powell | 프랑스에서 낸 유럽 데뷔작 | [듣기](https://open.spotify.com/album/0p6KGbqZfrcQctb7HnNJZb) |
+| 1966 | Os Afro-Sambas (Baden & Vinicius) | 처음이라면 여기서부터. 아프로-삼바의 금자탑 | [듣기](https://open.spotify.com/album/2q8oVCl6kbirIltWSm8cwl) |
+| 1966 | Tristeza on Guitar | 독일 MPS에서 낸 기타 명반 | [듣기](https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp) |
+| 1971 | Solitude on Guitar | Por Causa de Você가 담긴 앨범 | [듣기](https://open.spotify.com/album/2QIqw3bzFspfS6umcNfCH4) |
+
+---
+
 바덴 파웰(Baden Powell, 1937~2000)은 브라질 음악 역사상 가장 위대한 기교파 아쿠스틱 기타리스트이자, 보사노바와 삼바, 그리고 아프리카계 브라질 리듬을 결합하여 현대 브라질 음악(MPB)의 지평을 연 거장입니다.
 
 독특한 성인 '바덴 파웰'은 스카우트 운동의 창시자인 영국의 바덴 파월(Robert Baden-Powell) 경을 좋아했던 그의 아버지가 붙여준 본명입니다.
@@ -47,11 +62,11 @@
 
 #### 💿 추천 앨범
 
-1. **《Os Afro-Sambas》(1966)**: MPB와 아프리카-브라질리언 뮤직의 금자탑.
+1. **《Os Afro-Sambas》(1966)**: MPB와 아프리카-브라질리언 뮤직의 금자탑. 🟢 [Spotify](https://open.spotify.com/album/2q8oVCl6kbirIltWSm8cwl)
     
-2. **《Tristeza on Guitar》(1966)**: 유럽 무대에 바덴 파웰이라는 이름을 각인시킨 정통 기타 명반.
+2. **《Tristeza on Guitar》(1966)**: 유럽 무대에 바덴 파웰이라는 이름을 각인시킨 정통 기타 명반. 🟢 [Spotify](https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp)
     
-3. **《Le Monde Musical de Baden Powell》(1967)**: 프랑스 감성과 브라질 정서가 조화롭게 녹아있는 대표 음반.
+3. **《Le Monde Musical de Baden Powell》(1964)**: 프랑스 감성과 브라질 정서가 조화롭게 녹아있는 대표 음반. 🟢 [Spotify](https://open.spotify.com/album/0p6KGbqZfrcQctb7HnNJZb)
     
 
 스페인 및 남미의 탱고와는 또 다른, **브라질 고유의 신비롭고 열정적인 기타 선율**을 경험하고 싶을 때 가장 먼저 찾아듣게 되는 독보적인 아티스트입니다
@@ -59,6 +74,8 @@
 ---
 
 #### Berimbau
+
+🟢 Spotify: [À Vontade (1963)](https://open.spotify.com/album/6aKvUAb7J4sj2ywlKHaa8X)
 
 • Capoeira que é bom não cai / Mas se um dia ele cai, cai bem
 (실력 있는 카포에라 전사는 넘어지지 않지, 하지만 어쩌다 넘어지더라도 멋지게 낙법을 치며 일어난다네)
@@ -116,10 +133,14 @@
 ---
 #### Improviso Em Bossa Nova  - Baden Powell
 
+🟢 Spotify: [Um Violão na Madrugada (1961)](https://open.spotify.com/album/7mS5lxYO8R4vtizyP3WtEK)
+
 '보사노바 풍의 즉흥 연주'라는 제목의 뜻처럼 세련된 보사노바 리듬 위에서 펼쳐지는 화려한 기타 즉흥 연주가 돋보이는 작품
 
 ---
 #### Por Causa de Você (당신 때문에)
+
+🟢 Spotify: [Solitude on Guitar (1971)](https://open.spotify.com/album/2QIqw3bzFspfS6umcNfCH4)
 
 - 브라질 보사노바의 거장 안토니오 카를로스 조빔(Antônio Carlos Jobim)이 작곡하고, 전설적인 싱어송라이터 돌로레스 두랑(Dolores Duran)이 작사한 1957년 명곡입니다.
 
