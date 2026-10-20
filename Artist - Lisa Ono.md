@@ -1,6 +1,21 @@
 > ↩ [[0927-2026 - Bossa Nova.Samba.Tango|감상회 프로그램]] · [[0926-2026 -  60 minutes|60분 해설 스크립트]] · 관련 아티스트: [[Artist - Tom Jobim]] · [[Artist - Vinicius de Moraes]]
 
 ---
+
+## 🟢 Spotify로 미리 듣기: 오노 리사 앨범 서가
+
+> 감상회 전에 편하게 둘러보실 수 있도록 모았습니다. 🎧 Spotify 아티스트 페이지: [Lisa Ono](https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k)
+
+| 연도 | 앨범·곡 | 이런 분께 | Spotify |
+|---|---|---|---|
+| 1989 | Catupiry | 데뷔작 (재발매판) | [듣기](https://open.spotify.com/album/6NlOUEeozDemirazL8zNUD) |
+| 1997–2001 | Ono Lisa best 1997-2001 | Dream, Chega de Saudade(想いあふれて)가 담긴 베스트 | [듣기](https://open.spotify.com/album/1wb7aLRtpmWgu8tjvVBIdj) |
+| 2000 | Pretty World | 팝 명곡을 보사노바로 | [듣기](https://open.spotify.com/album/1WoKUdyZwz5ieAJaTsEff6) |
+| 2003 | Dans Mon Île | 샹송을 보사노바로 | [듣기](https://open.spotify.com/album/2iN23f7kTcJgszzaKhosDg) |
+| 2010 | Asia | 아시아 각국의 노래를 보사노바로 | [듣기](https://open.spotify.com/album/1QF3hoKWcFYbssHDcqYCFt) |
+| 2011 | Japão | 일본 노래를 보사노바로 | [듣기](https://open.spotify.com/album/778wno8R7LEedUU6QxbkLY) |
+
+---
 #### **About / Biography (아티스트 소개 및 생애)**
 
 - **브라질에서 일본으로 이어지는 특별한 배경:**
@@ -41,6 +56,8 @@
 
 **あの日にかえりたい** (그날로 돌아가고 싶어)
 
+🟢 Spotify: [원곡 – 아라이 유미(荒井由実), 1975](https://open.spotify.com/album/3J9IDv8c4xVU18LRgrYMKU)
+
 泣きながら ちぎった 写真を 手の ひらに つなげて みるの 
 울면서 찢었던 사진을 손바닥에 맞춰놓고 본다
 
@@ -76,6 +93,8 @@
 슬픔이여 안녕, 
 
 想いあふれて - 그리움이 흘러 넘쳐서...
+
+🟢 Spotify: [오노 리사 – Chega de Saudade (想いあふれて)](https://open.spotify.com/track/3JAPJjnGHz9UewRHA5HFME)
 
 - **Saudade (사우다지):** 가사 중간에 나오는 이 단어는 포르투갈어권 특유의 정서를 담은 단어로, 순수한 그리움을 넘어 **"상실에서 오는 애틋함, 깊은 고독과 슬픔"** 을 복합적으로 뜻합니다. [[1](https://m.blog.naver.com/do5231/221945550755), [2](https://note.com/mirecat/n/n61c3384d4faa)]
 - **제목의 대치:** 원문의 **"Chega de saudade"** 는 "이 슬픈 그리움은 이제 지긋지긋하니 그만 끝내고 싶다"는 절규에 가깝지만, 일본어 제목은 역설적으로 그 근원이 되는 감정 자체에 집중하여 **「想いあふれて」 (마음이 흘러넘쳐서)** 라고 아름답게 의역되었습니다. [[1](https://note.com/mirecat/n/n61c3384d4faa), [2](http://hiyokomame.com/ottnet/bossa/chega-de-saudade/)]

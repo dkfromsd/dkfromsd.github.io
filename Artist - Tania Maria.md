@@ -2,15 +2,30 @@
 
 ---
 
+## 🟢 Spotify로 미리 듣기: 타니아 마리아 앨범 서가
+
+> 감상회 전에 편하게 둘러보실 수 있도록 모았습니다. 🎧 Spotify 아티스트 페이지: [Tania Maria](https://open.spotify.com/artist/26DN8VRVU1IRg0AFgUfMZO)
+
+| 연도 | 앨범·곡 | 이런 분께 | Spotify |
+|---|---|---|---|
+| 1975 | Via Brasil vol.1 | 파리 시절의 출발점 | [듣기](https://open.spotify.com/album/3qWJ2IC8Hesg8aUglaL3NO) |
+| 1975 | Via Brasil vol.2 | Dona Flor가 담긴 앨범 | [듣기](https://open.spotify.com/album/76Oo9mG74vhRLzjpTZsU5g) |
+| 1983 | Come With Me | 콘코드 재즈 시절의 대표작 | [듣기](https://open.spotify.com/album/6WALhM5L0mvdGbicPNYYrA) |
+| 2000 | Viva Brazil | 브라질 명곡을 다시 부른 앨범 | [듣기](https://open.spotify.com/album/2mTalfqSZ02QMeKETIfg65) |
+
+---
+
 ### 1. 2000년 발매 앨범 《Viva Brazil》
 
-타니아 마리아는 **2000년**에 명반 《Viva Brazil》을 발표했습니다. 이 앨범은 프랑스, 유럽 및 글로벌 명가 레이블을 통해 발매되어 큰 성공을 거두었으며, 브라질 음악과 재즈 팬들 사이에서 대단한 명반으로 꼽힙니다.
+타니아 마리아는 **2000년**에 명반 《Viva Brazil》을 발표했습니다. 🟢 [Viva Brazil](https://open.spotify.com/album/2mTalfqSZ02QMeKETIfg65) 이 앨범은 프랑스, 유럽 및 글로벌 명가 레이블을 통해 발매되어 큰 성공을 거두었으며, 브라질 음악과 재즈 팬들 사이에서 대단한 명반으로 꼽힙니다.
 
 ### 2. 노래 〈Dona Flor〉
 
 타니아 마리아의 대표 레퍼토리 중 하나가 바로 이 〈Dona Flor〉라는 명곡입니다. 1975년 그녀의 초기작 _Via Brasil_ 시절부터 노래했던 곡으로, 특유의 스캣과 정교한 아프로-브라질리언 재즈 피아노 연주로 대중에게 가장 강렬하게 각인된 곡입니다.
 
 https://www.youtube.com/watch?v=RpZSwzU3an4&list=RDRpZSwzU3an4&start_radio=1
+
+🟢 Spotify: [Via Brasil vol.2 (Dona Flor 수록)](https://open.spotify.com/album/76Oo9mG74vhRLzjpTZsU5g)
 
 ### 3. 음반 제작자(프로듀서) 및 레이블과의 관계
 
@@ -38,6 +53,6 @@ https://www.youtube.com/watch?v=RpZSwzU3an4&list=RDRpZSwzU3an4&start_radio=1
 
 1980년대 초, 미국의 재즈 전설 찰리 버드(Charlie Byrd)에게 발탁되어 미국 재즈의 중심지인 '콘코드 재즈(Concord Jazz)' 레이블과 계약했습니다.
 
-- **대표 명곡 〈Come With Me〉 (1983):** 이 곡으로 빌보드 재즈 차트 상위권을 쓸어 담으며 전 세계 라틴 재즈/스무스 재즈 씬의 독보적인 아이콘이 됩니다.
+- **대표 명곡 〈Come With Me〉 (1983):** 🟢 [Come With Me](https://open.spotify.com/album/6WALhM5L0mvdGbicPNYYrA) — 이 곡으로 빌보드 재즈 차트 상위권을 쓸어 담으며 전 세계 라틴 재즈/스무스 재즈 씬의 독보적인 아이콘이 됩니다.
     
 - **장르의 융합:** 브라질의 삼바, 쇼로(Choro) 같은 전통 리듬 위에 미국의 펑크(Funk), 소울, 하드 밥(Hard Bop) 재즈를 결합하여 ‘아프로-브라질리언 재즈 펑크’라는 자신만의 독창적인 영토를 구축했습니다.

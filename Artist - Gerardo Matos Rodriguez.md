@@ -1,6 +1,19 @@
 > ↩ [[0927-2026 - Bossa Nova.Samba.Tango|감상회 프로그램]] · [[0926-2026 -  60 minutes|60분 해설 스크립트]] · 관련 아티스트: [[Artist - Carlos Gardel]] · [[Artist - Astor Piazzolla]]
 
 ---
+
+## 🟢 Spotify로 미리 듣기: 〈La Cumparsita〉 여러 버전
+
+> 감상회 전에 편하게 둘러보실 수 있도록 모았습니다 (작곡가 본인의 앨범보다는 여러 악단의 〈La Cumparsita〉 녹음을 모았습니다). 🎧 Spotify 아티스트 페이지: [Gerardo Matos Rodríguez](https://open.spotify.com/artist/1q05UWmc0YXSKluR1Vo8Hm)
+
+| 연도 | 앨범·곡 | 이런 분께 | Spotify |
+|---|---|---|---|
+| — | Orquesta Roberto Firpo – La Cumparsita | 처음 이 곡을 편곡·초연한 악단의 녹음 | [곡 듣기](https://open.spotify.com/track/207DBHSLmNfEvdQcT08pHz) |
+| — | Carlos Gardel – La Cumparsita | 가사를 붙여 부른 노래 버전 | [곡 듣기](https://open.spotify.com/track/36AofdiYx8lhUrs4qohRDB) |
+| — | Juan D'Arienzo – La Cumparsita | 밀롱가의 마지막 곡으로 가장 많이 트는 춤곡 버전 | [곡 듣기](https://open.spotify.com/track/0lLKhNyFOAk6ZjnJayC6NC) |
+| — | Francisco Canaro – La Cumparsita | 황금기 악단의 또 다른 해석 | [곡 듣기](https://open.spotify.com/track/4IvBCYb0koQVUFr42fUUUy) |
+
+---
 헤라르도 마토스 로드리게스(Gerardo Hernán Matos Rodríguez, 1897~1948)는 전 세계에서 가장 유명한 탱고 곡 〈라 쿰파르시타(La Cumparsita)〉를 만든 우루과이 출신의 작곡가이자 피아니스트, 언론인, 외교관입니다.
 
 친구들 사이에서는 '베초(Becho)'라는 별명으로 불렸으며, 젊은 시절 즉흥적으로 쓴 짧은 멜로디 하나로 탱고 역사에 불멸의 이름을 남겼습니다.
@@ -37,6 +50,8 @@
 
 ---
 ### La Cumparsita 
+
+🟢 Spotify: [Roberto Firpo](https://open.spotify.com/track/207DBHSLmNfEvdQcT08pHz) · [Carlos Gardel](https://open.spotify.com/track/36AofdiYx8lhUrs4qohRDB) · [Juan D'Arienzo](https://open.spotify.com/track/0lLKhNyFOAk6ZjnJayC6NC)
 ### 1. 제목의 뜻: 무슨 의미인가요?
 
 - **스페인어 의미**: 스페인어 'Comparsa(컴파르사 / 카니발 거리 행렬, 축제 가장무도회 파티)'에 작은 형태를 만드는 접미사(-ita)가 붙은 축약어입니다.

@@ -2,6 +2,19 @@
 
 ---
 
+## 🟢 Spotify로 미리 듣기: 가르델 앨범 서가
+
+> 감상회 전에 편하게 둘러보실 수 있도록 모았습니다 (가르델 시대 녹음은 대부분 편집 음반으로 올라와 있고, 다른 연주자의 편곡 버전도 함께 넣었습니다). 🎧 Spotify 아티스트 페이지: [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU)
+
+| 연도 | 앨범·곡 | 이런 분께 | Spotify |
+|---|---|---|---|
+| 1917–1935 | Sus 40 Tangos Más Famosos | 대표곡 40곡 모음 (2005년 편집반) | [듣기](https://open.spotify.com/album/68FzpqvMpPzf6c5gnoNOuA) |
+| 1917–1935 | Por una Cabeza and Greatest Hits | Por una Cabeza부터 시작하는 리마스터 모음 | [듣기](https://open.spotify.com/album/17z4eROmXx8gsDW7T6x9L7) |
+| 1993 | Scent of a Woman OST | 영화 《여인의 향기》 탱고 장면의 Por una Cabeza (The Tango Project) | [듣기](https://open.spotify.com/album/0InZWdtVogi4ukM1N2o6ZF) |
+| 1997 | Cinema Serenade (이차크 펄먼) | 바이올린으로 듣는 Por una Cabeza (존 윌리엄스 지휘) | [듣기](https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq) |
+
+---
+
 카를로스 가르델(Carlos Gardel, 1890~1935)은 하층민의 춤곡에 불과했던 탱고에 노래(가사)를 입혀 세계적인 대중음악 장르로 끌어올린 '탱고의 제왕(El Zorzal Criollo / The King of Tango)'입니다.
 
 그의 생애와 음악적 여정을 핵심 사건별 연대기로 정리해 드립니다.
@@ -91,6 +104,8 @@
 
 ### 2. 곡의 기본 정보
 
+- **Spotify**: 🟢 [가르델 원곡](https://open.spotify.com/album/17z4eROmXx8gsDW7T6x9L7) · [여인의 향기 OST](https://open.spotify.com/album/0InZWdtVogi4ukM1N2o6ZF) · [이차크 펄먼](https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq)
+    
 - **작곡**: 카를로스 가르델 (Carlos Gardel)
     
 - **작사**: 알프레도 레 페라 (Alfredo Le Pera)
