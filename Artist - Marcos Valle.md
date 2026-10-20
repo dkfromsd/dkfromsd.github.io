@@ -2,6 +2,24 @@
 
 ---
 
+## 🟢 Spotify로 미리 듣기: 마르쿠스 발리 앨범 서가
+
+> 감상회 전에 편하게 둘러보실 수 있도록 앨범 단위로 모았습니다. 🎧 Spotify 아티스트 페이지: [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk)
+
+| 연도 | 앨범 | 이런 분께 | Spotify |
+|---|---|---|---|
+| 1963 | Samba "Demais" | 데뷔작. 2세대 보사노바의 출발 | [듣기](https://open.spotify.com/album/3lKnoKMioZcwT6DkhnS7BN) |
+| 1965 | O Compositor e o Cantor | Samba de Verão의 원곡 (재발매판) | [듣기](https://open.spotify.com/album/1oFUFMxLHmRVR1LM23s9xk) |
+| 1966 | Rain Forest (Walter Wanderley) | 미국 Top 40에 오른 Summer Samba | [듣기](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv) |
+| 1967 | Braziliance! | 미국에서 낸 연주 앨범 (재발매판) | [듣기](https://open.spotify.com/album/0lSLkafHNfTsiL9bkEyzSQ) |
+| 1971 | Garra | 독재 시대, 어두워진 발리 | [듣기](https://open.spotify.com/album/26SSJpzaZjvKJ7pdGzPWuU) |
+| 1973 | Previsão do Tempo | 아지무스와 함께한 브라질 재즈 펑크 명반 | [듣기](https://open.spotify.com/album/2b7jpQui6xOegftTmeAt0I) |
+| 1981 | Vontade de Rever Você | LA 시대, 리언 웨어·시카고와 함께 | [듣기](https://open.spotify.com/album/5udboLLSVDzy8y7iBHpafc) |
+| 1983 | Marcos Valle | 댄스 히트 Estrelar가 담긴 앨범 | [듣기](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) |
+| 1998 | Nova Bossa Nova | 런던 클럽 신이 다시 찾은 발리 | [듣기](https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa) |
+
+---
+
 ### 1. 성장 (1943 ~ 1962)
 
 - 1943년 9월 14일: 리우데자네이루에서 태어났습니다. 본명은 Marcos Kostenbader Valle이고, 코파카바나 해변 근처에서 자랐습니다.
@@ -13,33 +31,33 @@
 
 ### 2. 보사노바 2세대의 등장 (1963 ~ 1966)
 
-- 1963년: Odeon 레이블에서 데뷔 앨범 **《Samba "Demais"》**를 냈습니다. 이 무렵 안토니오 카를로스 조빔이 발리 가족의 집 바로 건너편으로 이사해 왔다고 합니다.
+- 1963년: Odeon 레이블에서 데뷔 앨범 **《Samba "Demais"》**를 냈습니다. 이 무렵 안토니오 카를로스 조빔이 발리 가족의 집 바로 건너편으로 이사해 왔다고 합니다. 🟢 [Samba "Demais"](https://open.spotify.com/album/3lKnoKMioZcwT6DkhnS7BN)
     
-- 1965년: 《O Compositor e o Cantor》에서 **〈Samba de Verão〉**를 발표했습니다.
+- 1965년: 《O Compositor e o Cantor》에서 **〈Samba de Verão〉**를 발표했습니다. 🟢 [O Compositor e o Cantor](https://open.spotify.com/album/1oFUFMxLHmRVR1LM23s9xk)
     
-- 1966년: 왈테르 반데를레이의 〈Summer Samba〉가 미국 Top 40에 오르면서, 발리는 미국에서 가장 많이 녹음되는 브라질 작곡가 중 한 명이 되었습니다.
+- 1966년: 왈테르 반데를레이의 〈Summer Samba〉가 미국 Top 40에 오르면서, 발리는 미국에서 가장 많이 녹음되는 브라질 작곡가 중 한 명이 되었습니다. 🟢 [Walter Wanderley – Rain Forest](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv)
     
 
 ### 3. 미국 체류와 귀국, 독재 시대 (1966 ~ 1974)
 
-- 1966~67년: 미국에서 활동하며 Warner Bros.에서 연주 앨범 **《Braziliance!》**를 냈습니다.
+- 1966~67년: 미국에서 활동하며 Warner Bros.에서 연주 앨범 **《Braziliance!》**를 냈습니다. 🟢 [Braziliance!](https://open.spotify.com/album/0lSLkafHNfTsiL9bkEyzSQ)
     
 - 1967년: 베트남전 징집을 우려해 브라질로 돌아왔습니다.
     
 - 1960년대 말~1970년대 초: 브라질 군사독재 시기입니다. 형 파울루 세르지우 발리와 함께 쓴 곡들이 점점 어둡고 실험적이며 사이키델릭한 색채를 띠게 됩니다. 그래도 뿌리는 여전히 삼바와 보사노바에 있었습니다.
     
-- 1971년: 《Garra》를 냈습니다(〈Black Is Beautiful〉 수록). 브라질판 《세서미 스트리트(Vila Sésamo)》 음악에도 참여했습니다.
+- 1971년: 《Garra》를 냈습니다(〈Black Is Beautiful〉 수록). 브라질판 《세서미 스트리트(Vila Sésamo)》 음악에도 참여했습니다. 🟢 [Garra](https://open.spotify.com/album/26SSJpzaZjvKJ7pdGzPWuU)
     
-- 1973년: **《Previsão do Tempo》**를 냈습니다. 브라질 퓨전 밴드 **아지무스(Azymuth)**의 멤버들이 연주에 참여한 것으로 알려진, 브라질 소울·재즈 펑크의 명반입니다.
+- 1973년: **《Previsão do Tempo》**를 냈습니다. 브라질 퓨전 밴드 **아지무스(Azymuth)**의 멤버들이 연주에 참여한 것으로 알려진, 브라질 소울·재즈 펑크의 명반입니다. 🟢 [Previsão do Tempo](https://open.spotify.com/album/2b7jpQui6xOegftTmeAt0I)
     
 
 ### 4. 미국 LA 시대와 소울·펑크 (1975 ~ 1980년대)
 
 - 1975년: 몇 년 동안 라이브 활동을 멈추고 로스앤젤레스로 이주했습니다.
     
-- 1981년: 리언 웨어(Leon Ware), 밴드 **시카고(Chicago)**의 피터 세트라와 함께 곡을 쓰고, 일부는 시카고와 함께 녹음한 《Vontade de Rever Você》를 냈습니다. 같은 해 **사라 본(Sarah Vaughan)**의 《Songs of the Beatles》에 보컬로 참여했습니다.
+- 1981년: 리언 웨어(Leon Ware), 밴드 **시카고(Chicago)**의 피터 세트라와 함께 곡을 쓰고, 일부는 시카고와 함께 녹음한 《Vontade de Rever Você》를 냈습니다. 🟢 [Vontade de Rever Você](https://open.spotify.com/album/5udboLLSVDzy8y7iBHpafc) 같은 해 **사라 본(Sarah Vaughan)**의 《Songs of the Beatles》에 보컬로 참여했습니다.
     
-- 1982~83년: 군정 종식을 축하하는 마음으로 만든 셀프 타이틀 앨범 《Marcos Valle》를 냈습니다. 리언 웨어와 함께 쓴 **〈Estrelar〉**가 브라질 댄스 히트가 되었습니다.
+- 1982~83년: 군정 종식을 축하하는 마음으로 만든 셀프 타이틀 앨범 《Marcos Valle》를 냈습니다. 리언 웨어와 함께 쓴 **〈Estrelar〉**가 브라질 댄스 히트가 되었습니다. 🟢 [Marcos Valle (1983)](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe)
     
 - 1986년: 소울팝 앨범 《Tempo da Gente》를 냈습니다.
     
@@ -48,7 +66,7 @@
 
 - 1990년대: 런던 클럽 신과 애시드 재즈 DJ들이 그의 1960~70년대 음반을 재발견하면서 보사노바·브라질 그루브 리바이벌의 중심 인물이 되었습니다.
     
-- 1998년: 영국 Far Out 레이블에서 《Nova Bossa Nova》를 냈습니다.
+- 1998년: 영국 Far Out 레이블에서 《Nova Bossa Nova》를 냈습니다. 🟢 [Nova Bossa Nova](https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa)
     
 - 2001년: 《Escape》를 냈고, 호베르투 메네스카우·완다 사와 함께 《Bossa Entre Amigos》를 녹음했습니다.
     
@@ -69,6 +87,8 @@
 
 
 https://www.youtube.com/watch?v=RtaAD6UemFQ&list=RDRtaAD6UemFQ&start_radio=1
+
+🟢 Spotify: [Samba de Verão 원곡 (O Compositor e o Cantor)](https://open.spotify.com/album/1oFUFMxLHmRVR1LM23s9xk) · [Summer Samba (Walter Wanderley, Rain Forest)](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv)
 
 
 Você viu só que amor nunca vi coisa assim  

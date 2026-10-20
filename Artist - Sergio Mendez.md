@@ -1,6 +1,14 @@
 
 ---
 
+## 🟢 Spotify로 미리 듣기
+
+> 감상회 전에 편하게 둘러보실 수 있도록, 아래 **💿 주요 앨범** 표에 앨범별 Spotify 링크를 달았습니다. 처음이라면 《Herb Alpert Presents Sergio Mendes & Brasil '66》([듣기](https://open.spotify.com/album/1quRPb1rOo8xSmmbLdaKQW))부터 시작해 보세요.
+>
+> 🎧 Spotify 아티스트 페이지: [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) · [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL)
+
+---
+
 
 ---
 
@@ -71,16 +79,16 @@
 
 |#|곡|연도|작곡|포인트|링크|
 |---|---|---|---|---|---|
-|1|Mas que Nada|1966|Jorge Ben|브라질 음악 세계화의 상징. 피아노 오스티나토와 남녀 보컬의 유니즌|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Brasil+66+Mas+que+Nada+1966) · [가사](https://www.letras.mus.br/?q=Mas%20Que%20Nada)|
-|2|The Look of Love|1968|Burt Bacharach / Hal David|빌보드 4위, 아카데미 무대 공연|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Brasil+66+The+Look+of+Love) · [가사](https://genius.com/search?q=The%20Look%20of%20Love%20Sergio%20Mendes)|
-|3|The Fool on the Hill|1968|Lennon–McCartney|비틀스를 보사노바로 다시 해석한 곡|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Fool+on+the+Hill)|
+|1|Mas que Nada|1966|Jorge Ben|브라질 음악 세계화의 상징. 피아노 오스티나토와 남녀 보컬의 유니즌|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Brasil+66+Mas+que+Nada+1966) · [가사](https://www.letras.mus.br/?q=Mas%20Que%20Nada) · 🟢 [Spotify](https://open.spotify.com/album/1quRPb1rOo8xSmmbLdaKQW)|
+|2|The Look of Love|1968|Burt Bacharach / Hal David|빌보드 4위, 아카데미 무대 공연|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Brasil+66+The+Look+of+Love) · [가사](https://genius.com/search?q=The%20Look%20of%20Love%20Sergio%20Mendes) · 🟢 [Spotify](https://open.spotify.com/album/3IoFjfKTMmdFMkT5E0U5PV)|
+|3|The Fool on the Hill|1968|Lennon–McCartney|비틀스를 보사노바로 다시 해석한 곡|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Fool+on+the+Hill) · 🟢 [Spotify](https://open.spotify.com/album/2NW8YJmKxaLkWOzZscLIhB)|
 |4|Going Out of My Head|1966|Randazzo / Weinstein|데뷔 앨범의 대표곡|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Brasil+66+Going+Out+of+My+Head)|
 |5|Constant Rain (Chove Chuva)|1966|Jorge Ben|〈Mas que Nada〉와 짝을 이루는 조르지 벤의 곡|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Chove+Chuva)|
-|6|Scarborough Fair|1968|영국 민요 (사이먼 & 가펑클 버전)|포크 명곡을 보사노바로 편곡|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Scarborough+Fair)|
+|6|Scarborough Fair|1968|영국 민요 (사이먼 & 가펑클 버전)|포크 명곡을 보사노바로 편곡|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Scarborough+Fair) · 🟢 [Spotify](https://open.spotify.com/album/2NW8YJmKxaLkWOzZscLIhB)|
 |7|Pais Tropical|1970년대 초|Jorge Ben|브라질의 자부심을 노래한 곡|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Pais+Tropical)|
-|8|Never Gonna Let You Go|1983|Barry Mann / Cynthia Weil|빌보드 4위 팝 발라드|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Never+Gonna+Let+You+Go+1983) · [가사](https://genius.com/search?q=Never%20Gonna%20Let%20You%20Go%20Sergio%20Mendes)|
-|9|Magalenha|1992|Carlinhos Brown|그래미 수상작 《Brasileiro》의 타악기 축제|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Magalenha)|
-|10|Mas que Nada (feat. Black Eyed Peas)|2006|Jorge Ben|영국 6위, 원곡과 비교 감상 추천|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Black+Eyed+Peas+Mas+que+Nada)|
+|8|Never Gonna Let You Go|1983|Barry Mann / Cynthia Weil|빌보드 4위 팝 발라드|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Never+Gonna+Let+You+Go+1983) · [가사](https://genius.com/search?q=Never%20Gonna%20Let%20You%20Go%20Sergio%20Mendes) · 🟢 [Spotify](https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU)|
+|9|Magalenha|1992|Carlinhos Brown|그래미 수상작 《Brasileiro》의 타악기 축제|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Magalenha) · 🟢 [Spotify](https://open.spotify.com/album/583hKa2J07qKwJZsWfbEC2)|
+|10|Mas que Nada (feat. Black Eyed Peas)|2006|Jorge Ben|영국 6위, 원곡과 비교 감상 추천|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Black+Eyed+Peas+Mas+que+Nada) · 🟢 [Spotify](https://open.spotify.com/album/4sceISkCvRuDbd74AtKeEH)|
 |11|Real in Rio|2011|Mendes / Carlinhos Brown / Siedah Garrett|아카데미 주제가상 후보|[YouTube](https://www.youtube.com/results?search_query=Real+in+Rio+Rio+movie+song)|
 
 
@@ -90,19 +98,19 @@
 
 |연도|앨범|그룹 이름|비고|링크|
 |---|---|---|---|---|
-|1961|Dance Moderno|Sexteto Bossa Rio 시절|데뷔작|[Spotify](https://open.spotify.com/search/Sergio%20Mendes%20Dance%20Moderno) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Dance+Moderno+1961)|
+|1961|Dance Moderno|Sexteto Bossa Rio 시절|데뷔작|🟢 [Spotify](https://open.spotify.com/album/21wXp23GgOoBxPIignHHZ6) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Dance+Moderno+1961)|
 |1965|The Swinger from Rio|Brasil '65 시기|Atlantic. 조빔, 아트 파머 참여|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+The+Swinger+from+Rio)|
-|1966|Herb Alpert Presents Sergio Mendes & Brasil '66|Brasil '66|플래티넘. 〈Mas que Nada〉 수록|[Spotify](https://open.spotify.com/search/Sergio%20Mendes%20Brasil%2066) · [YouTube](https://www.youtube.com/results?search_query=Herb+Alpert+Presents+Sergio+Mendes+Brasil+66+full+album)|
-|1967|Look Around|Brasil '66|〈The Look of Love〉 수록|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Brasil+66+Look+Around+album)|
-|1968|Fool on the Hill|Brasil '66|〈Scarborough Fair〉 수록|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Fool+on+the+Hill+album)|
-|1970|Stillness|Brasil '66|포크·MPB로 확장|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Stillness+1970)|
+|1966|Herb Alpert Presents Sergio Mendes & Brasil '66|Brasil '66|플래티넘. 〈Mas que Nada〉 수록|🟢 [Spotify](https://open.spotify.com/album/1quRPb1rOo8xSmmbLdaKQW) · [YouTube](https://www.youtube.com/results?search_query=Herb+Alpert+Presents+Sergio+Mendes+Brasil+66+full+album)|
+|1967|Look Around|Brasil '66|〈The Look of Love〉 수록|🟢 [Spotify](https://open.spotify.com/album/3IoFjfKTMmdFMkT5E0U5PV) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Brasil+66+Look+Around+album)|
+|1968|Fool on the Hill|Brasil '66|〈Scarborough Fair〉 수록|🟢 [Spotify](https://open.spotify.com/album/2NW8YJmKxaLkWOzZscLIhB) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Fool+on+the+Hill+album)|
+|1970|Stillness|Brasil '66|포크·MPB로 확장|🟢 [Spotify](https://open.spotify.com/album/4GQTHNkd7POANwXRg8MUI0) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Stillness+1970)|
 |1973|Love Music|Brasil '77||[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Love+Music+1973)|
-|1978|Brasil '88|Brasil '88||[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Brasil+88+1978)|
-|1983|Sérgio Mendes|솔로|〈Never Gonna Let You Go〉 수록|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+1983+album)|
+|1978|Brasil '88|Brasil '88||🟢 [Spotify](https://open.spotify.com/album/0gUlJTahcMG5iJFE90WOPQ) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Brasil+88+1978)|
+|1983|Sérgio Mendes|솔로|〈Never Gonna Let You Go〉 수록|🟢 [Spotify](https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+1983+album)|
 |1984|Confetti|솔로|〈Alibis〉, 〈Olympia〉 수록|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Confetti+1984)|
-|1992|Brasileiro|솔로|🏆 그래미 최우수 월드 뮤직 앨범|[Spotify](https://open.spotify.com/search/Sergio%20Mendes%20Brasileiro) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Brasileiro+1992+full+album)|
-|2006|Timeless|솔로|will.i.am 프로듀싱|[Spotify](https://open.spotify.com/search/Sergio%20Mendes%20Timeless) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Timeless+2006)|
-|2009|Bom Tempo|솔로||[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Bom+Tempo)|
+|1992|Brasileiro|솔로|🏆 그래미 최우수 월드 뮤직 앨범|🟢 [Spotify](https://open.spotify.com/album/583hKa2J07qKwJZsWfbEC2) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Brasileiro+1992+full+album)|
+|2006|Timeless|솔로|will.i.am 프로듀싱|🟢 [Spotify](https://open.spotify.com/album/4sceISkCvRuDbd74AtKeEH) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Timeless+2006)|
+|2009|Bom Tempo|솔로||🟢 [Spotify](https://open.spotify.com/album/61eCz2bw4YA6fOf4CsvSDZ) · [YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+Bom+Tempo)|
 |2020|In the Key of Joy|솔로|같은 제목의 다큐멘터리와 함께 공개|[YouTube](https://www.youtube.com/results?search_query=Sergio+Mendes+In+the+Key+of+Joy)|
 
   
