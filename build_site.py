@@ -864,6 +864,7 @@ page = f"""<!doctype html>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet">
 <meta name="theme-color" content="#f6efe3">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 <script>try{{var t=localStorage.getItem('bn-theme');if(t)document.documentElement.dataset.theme=t;}}catch(e){{}}</script>
 <style>{CSS}</style>
 </head>
@@ -885,6 +886,7 @@ page = f"""<!doctype html>
 <div class="calcadao" aria-hidden="true" title="코파카바나 보도 물결무늬"></div>
 <footer>02_music 폴더의 md 문서로 생성 · <code>python build_site.py</code>로 다시 만들 수 있습니다 · <a href="#top" onclick="scrollTo(0,0)">처음으로 ↑</a></footer>
 <script>{JS}</script>
+<script src="favicon.js" defer></script>
 </body>
 </html>
 """
