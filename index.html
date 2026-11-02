@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<script>
+// 예전에 공유된 보사노바 감상회 링크(balconymuseum.com/#/tracks, #/doc/..., #program 등)를 새 주소로 넘긴다.
+(function () {
+  var h = location.hash;
+  if (!h) return;
+  if (/^#\//.test(h) || /^#(program|tracks|artists|docs|check)(\/|$)/.test(h)) {
+    if (h.charAt(1) !== "/") h = "#/" + h.slice(1);
+    location.replace("/exhibits/bossa-nova/" + h);
+  }
+})();
+</script>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Balcony Museum · 발코니 미술관</title>
+<meta name="description" content="날마다 전시가 바뀌는 작은 미술관. 어느 날은 미술, 어느 날은 체육, 어느 날은 음악. 최근 전시는 보사노바·삼바·탱고 60분 감상회입니다.">
+<meta name="robots" content="noai, noimageai">
+<meta name="theme-color" content="#f6efe3">
+<meta property="og:title" content="Balcony Museum · 발코니 미술관">
+<meta property="og:description" content="날마다 전시가 바뀌는 작은 미술관">
+<meta property="og:type" content="website">
+<link rel="canonical" href="https://balconymuseum.com/">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6efe3; --paper:#fffaf2; --ink:#2b211a; --muted:#6f6052; --line:#e2d3bb;
+  --rust:#a14b1c; --teal:#1d6766; --sun:#f0a463; --gold:#b08d57;
+  --shadow:0 1px 0 rgba(60,35,15,.05),0 14px 30px -18px rgba(60,35,15,.45);
+  --latin:"Cormorant Garamond","Iowan Old Style",Georgia,serif;
+  --serif:"Noto Serif KR","Iowan Old Style",Georgia,serif;
+  --sans:"Noto Sans KR",-apple-system,"Segoe UI","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:72px}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.8 var(--sans);-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;background:radial-gradient(1200px 500px at 50% -10%,rgba(240,164,99,.18),transparent 70%)}
+a{color:var(--teal);text-underline-offset:3px}
+a:focus-visible{outline:2px solid var(--teal);outline-offset:3px;border-radius:4px}
+.skip{position:absolute;left:-999px}.skip:focus{left:16px;top:8px;z-index:99;background:var(--paper);padding:6px 10px}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px;position:relative}
+
+/* 상단 메뉴 */
+nav.top{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 90%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+nav.top .wrap{display:flex;align-items:center;gap:6px;padding-top:10px;padding-bottom:10px;overflow-x:auto;scrollbar-width:none}
+.brand{font-family:var(--latin);font-weight:600;font-size:22px;letter-spacing:.02em;color:var(--ink);text-decoration:none;margin-right:auto;white-space:nowrap}
+.brand small{font-family:var(--sans);font-size:12px;color:var(--muted);letter-spacing:.08em;margin-left:8px}
+nav.top a.n{white-space:nowrap;color:var(--muted);text-decoration:none;font-size:14px;padding:4px 12px;border-radius:99px}
+nav.top a.n:hover{background:rgba(29,103,102,.1);color:var(--teal)}
+
+/* 히어로: 액자에 걸린 배너 */
+.hero{text-align:center;padding:52px 0 30px}
+.eyebrow{font-family:var(--latin);font-style:italic;font-size:20px;color:var(--rust);letter-spacing:.06em;margin:0}
+h1{font-family:var(--latin);font-weight:600;font-size:clamp(44px,9vw,86px);line-height:1.02;letter-spacing:.01em;margin:6px 0 4px}
+h1 span{display:block;font-family:var(--serif);font-weight:500;font-size:clamp(18px,3vw,26px);letter-spacing:.38em;color:var(--muted);margin-top:10px;padding-left:.38em}
+.lede{font-family:var(--serif);font-size:clamp(17px,2.4vw,21px);max-width:620px;margin:20px auto 0;line-height:1.9}
+.lede em{font-style:normal;color:var(--rust)}
+.lede,.sec-h p,.plaque p,.plaque li,.plaque h3{word-break:keep-all;overflow-wrap:break-word}
+.orn{display:flex;align-items:center;justify-content:center;gap:14px;margin:26px auto 30px;color:var(--gold);max-width:420px}
+.orn::before,.orn::after{content:"";height:1px;flex:1;background:linear-gradient(90deg,transparent,var(--gold))}
+.orn::after{transform:scaleX(-1)}
+.orn i{width:9px;height:9px;background:var(--gold);transform:rotate(45deg);display:block}
+.frame{max-width:900px;margin:0 auto;padding:14px;background:var(--paper);border:1px solid var(--line);box-shadow:var(--shadow);position:relative}
+.frame::before{content:"";position:absolute;inset:6px;border:1px solid var(--gold);opacity:.7;pointer-events:none}
+.frame img{display:block;width:100%;height:auto}
+
+/* 섹션 공통 */
+section.block{padding:62px 0 8px}
+.sec-h{text-align:center;margin-bottom:30px}
+.sec-h .k{font-family:var(--latin);font-style:italic;color:var(--rust);font-size:19px;letter-spacing:.06em;margin:0;max-width:none}
+.sec-h h2{font-family:var(--serif);font-weight:700;font-size:clamp(26px,4vw,36px);margin:2px 0 0;letter-spacing:-.01em}
+.sec-h p{color:var(--muted);margin:8px auto 0;max-width:560px}
+
+/* 최근 전시: 안내판 */
+.plaque{max-width:820px;margin:0 auto;background:var(--paper);border:1px solid var(--line);box-shadow:var(--shadow);position:relative;display:grid;grid-template-columns:1.1fr 1fr}
+.plaque::before{content:"";position:absolute;inset:7px;border:1px solid var(--gold);opacity:.6;pointer-events:none}
+.plaque .art{background:linear-gradient(180deg,#fdf0dc,#f6c595 65%,#ee9f6c);display:grid;place-items:center;min-height:240px;position:relative;overflow:hidden}
+.plaque .art svg{width:100%;height:100%;position:absolute;inset:0}
+.plaque .txt{padding:32px 34px 30px}
+.tag.past-tag{background:var(--muted)}
+.tag{display:inline-block;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#fff;background:var(--teal);padding:2px 12px;border-radius:99px}
+.plaque h3{font-family:var(--serif);font-size:clamp(22px,3vw,28px);line-height:1.35;margin:14px 0 4px}
+.facts{display:grid;grid-template-columns:auto 1fr;gap:2px 16px;margin:12px 0 14px;font-size:14.5px}
+.facts dt{color:var(--muted)}.facts dd{margin:0;font-weight:500}
+.plaque p{margin:0 0 10px;font-size:15px;color:#4a3d33}
+.plaque ul{margin:0 0 20px;padding-left:18px;font-size:14.5px;color:var(--muted)}
+.plaque li{margin:2px 0}
+.btn{display:inline-block;background:var(--ink);color:var(--paper);text-decoration:none;padding:9px 22px;border-radius:2px;font-size:15px;letter-spacing:.04em;transition:background .2s,transform .2s}
+.btn:hover{background:var(--rust);transform:translateY(-1px)}
+
+/* 전시관 안내 */
+.wings{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.wing{background:var(--paper);border:1px solid var(--line);text-align:center;padding:18px 8px 14px;position:relative;transition:transform .25s,box-shadow .25s}
+.wing img{width:68px;height:68px;display:block;margin:0 auto 8px}
+.wing b{display:block;font-family:var(--serif);font-size:17px}
+.wing small{display:block;font-family:var(--latin);font-style:italic;color:var(--muted);font-size:15px;line-height:1.3}
+.wing .st{display:block;margin-top:8px;font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.wing.soon{opacity:.62}
+.wing.soon img{filter:grayscale(.65)}
+.wing.open{border-color:var(--gold);box-shadow:var(--shadow)}
+.wing.open .st{color:var(--teal);font-weight:700}
+.wing.open a{position:absolute;inset:0}
+.wing.open:hover{transform:translateY(-3px)}
+
+/* 지난 전시 */
+.past{max-width:820px;margin:0 auto;list-style:none;padding:0}
+.past li a{display:flex;align-items:baseline;gap:18px;padding:18px 4px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);text-decoration:none;color:var(--ink);transition:background .2s,padding .2s}
+.past li a:hover{background:rgba(176,141,87,.12);padding-left:14px}
+.past .t{font-family:var(--serif);font-size:19px;font-weight:700}
+.past .m{color:var(--muted);font-size:14px;margin-left:auto;white-space:nowrap}
+.past .go{color:var(--rust);font-family:var(--latin);font-style:italic;font-size:17px}
+
+footer{margin-top:76px;border-top:1px solid var(--line);padding:30px 20px 44px;text-align:center;color:var(--muted);font-size:13.5px}
+footer .brand2{font-family:var(--latin);font-size:22px;color:var(--ink);display:block;margin-bottom:6px}
+footer p{margin:4px 0}
+
+/* 입장 애니메이션 */
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.hero > *,.frame,.plaque,.wings,.past{animation:rise .8s both}
+.hero .lede{animation-delay:.1s}.frame{animation-delay:.2s}.plaque{animation-delay:.1s}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+
+@media (max-width:860px){.wings{grid-template-columns:repeat(3,1fr)}.plaque{grid-template-columns:1fr}.plaque .art{min-height:170px}}
+@media (max-width:560px){.wings{grid-template-columns:repeat(2,1fr)}.plaque .txt{padding:26px 22px}.past li a{flex-wrap:wrap;gap:4px 14px}.past .m{margin-left:0}.brand small{display:none}}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">본문으로 바로가기</a>
+<nav class="top" aria-label="주 메뉴"><div class="wrap">
+  <a class="brand" href="/">Balcony Museum<small>발코니 미술관</small></a>
+  <a class="n" href="#now">최근 전시</a>
+  <a class="n" href="#wings">전시관</a>
+  <a class="n" href="#past">지난 전시</a>
+</div></nav>
+
+<main id="main">
+<header class="hero"><div class="wrap">
+  <p class="eyebrow">Welcome to the balcony</p>
+  <h1>Balcony Museum<span>발코니 미술관</span></h1>
+  <p class="lede"><em>날마다 전시가 바뀌는 작은 미술관.</em><br>어느 날은 미술, 어느 날은 체육, 어느 날은 음악.<br>발코니에 서서 오늘의 전시를 구경하고 가세요.</p>
+  <div class="orn" aria-hidden="true"><i></i></div>
+  <div class="frame"><img src="assets/readme/banner.svg" width="900" height="340" alt="Balcony Museum: 오늘의 전시가 음악, 미술, 체육으로 바뀌는 발코니 미술관"></div>
+</div></header>
+
+<section class="block" id="now"><div class="wrap">
+  <div class="sec-h"><p class="k">Recent exhibition</p><h2>최근 전시</h2></div>
+  <article class="plaque">
+    <div class="art" aria-hidden="true">
+      <svg viewBox="0 0 400 300" preserveAspectRatio="xMidYMax slice"><defs><radialGradient id="g"><stop offset="0" stop-color="#ffcf8f" stop-opacity=".8"/><stop offset="1" stop-color="#ffcf8f" stop-opacity="0"/></radialGradient></defs>
+        <circle cx="250" cy="196" r="130" fill="url(#g)"/><circle cx="250" cy="192" r="32" fill="#fff3d6"/>
+        <path d="M0 214 C40 190 90 190 120 214 L150 230 L0 230Z" fill="#c99682"/>
+        <path d="M70 230 C80 180 96 130 124 104 C146 86 176 90 190 112 C204 136 208 190 220 230Z" fill="#7e5a50"/>
+        <path d="M200 230 C216 206 244 192 276 192 C306 192 326 210 340 230Z" fill="#94695c"/>
+        <path d="M276 192 L150 108" stroke="#7e5a50" stroke-width="1.2" fill="none"/>
+        <rect y="228" width="400" height="26" fill="#4f8f8c"/><path d="M226 236h62M238 242h38" stroke="#fff3d6" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+        <path d="M0 254h400v46H0z" fill="#f7efe3"/><path d="M0 278q25-14 50 0t50 0 50 0 50 0 50 0 50 0 50 0 50 0" fill="none" stroke="#3a2b23" stroke-width="7"/></svg>
+    </div>
+    <div class="txt">
+      <span class="tag">Music · 음악</span> <span class="tag past-tag">지난 감상회</span>
+      <h3>보사노바 · 삼바 · 탱고<br>60분 감상회</h3>
+      <dl class="facts"><dt>감상회</dt><dd>2026년 10월 23일 (금) · 마침</dd><dt>전시 자료</dt><dd>언제든 열람</dd></dl>
+      <p>브라질의 삼바와 보사노바, 아르헨티나의 탱고를 60분 동안 함께 들은 감상회입니다. 그날 쓴 자료를 지금도 볼 수 있습니다.</p>
+      <ul>
+        <li>감상회에서 튼 곡 플레이리스트와 60분 해설 스크립트</li>
+        <li>아티스트 노트 13편: 톰 조빔, 주앙 질베르토, 바덴 파웰, 아스토르 피아졸라 등</li>
+        <li>곡마다 YouTube 링크, 조빔 노트에는 Spotify 앨범 서가</li>
+      </ul>
+      <a class="btn" href="/exhibits/bossa-nova/">전시 자료 보기 →</a>
+    </div>
+  </article>
+</div></section>
+
+<section class="block" id="wings"><div class="wrap">
+  <div class="sec-h"><p class="k">The galleries</p><h2>전시관 안내</h2><p>전시는 주제를 바꿔 가며 열립니다. 아래 전시관이 차례로 문을 엽니다.</p></div>
+  <ul class="wings">
+    <li class="wing open"><img src="assets/readme/icons/music.svg" alt=""><b>음악</b><small>Music</small><span class="st">Open · 열림</span><a href="/exhibits/bossa-nova/" aria-label="음악 전시관 입장: 보사노바 감상회"></a></li>
+    <li class="wing soon"><img src="assets/readme/icons/painting.svg" alt=""><b>미술</b><small>Painting</small><span class="st">준비 중</span></li>
+    <li class="wing soon"><img src="assets/readme/icons/sports.svg" alt=""><b>체육</b><small>Sports</small><span class="st">준비 중</span></li>
+    <li class="wing soon"><img src="assets/readme/icons/dance.svg" alt=""><b>무용</b><small>Dance</small><span class="st">준비 중</span></li>
+    <li class="wing soon"><img src="assets/readme/icons/theater.svg" alt=""><b>연극</b><small>Theater</small><span class="st">준비 중</span></li>
+    <li class="wing soon"><img src="assets/readme/icons/film.svg" alt=""><b>영화</b><small>Film</small><span class="st">준비 중</span></li>
+    <li class="wing soon"><img src="assets/readme/icons/photography.svg" alt=""><b>사진</b><small>Photography</small><span class="st">준비 중</span></li>
+    <li class="wing soon"><img src="assets/readme/icons/literature.svg" alt=""><b>문학</b><small>Literature</small><span class="st">준비 중</span></li>
+    <li class="wing soon"><img src="assets/readme/icons/architecture.svg" alt=""><b>건축</b><small>Architecture</small><span class="st">준비 중</span></li>
+    <li class="wing soon"><img src="assets/readme/icons/ceramics.svg" alt=""><b>공예</b><small>Ceramics</small><span class="st">준비 중</span></li>
+  </ul>
+</div></section>
+
+<section class="block" id="past"><div class="wrap">
+  <div class="sec-h"><p class="k">Past exhibitions</p><h2>지난 전시</h2></div>
+  <ul class="past">
+    <li><a href="/backup/"><span class="t">그래픽 디자인 &amp; 일러스트 포트폴리오</span><span class="m">미술 · 디자인</span><span class="go">visit →</span></a></li>
+  </ul>
+</div></section>
+</main>
+
+<footer>
+  <span class="brand2">Balcony Museum</span>
+  <p>날마다 전시가 바뀌는 작은 미술관 · 발코니 미술관</p>
+  <p>전시 자료는 개인이 모은 감상 노트이며 부정확할 수 있습니다 · <a href="/exhibits/bossa-nova/#/notice">이용 안내</a></p>
+</footer>
+</body>
+</html>
