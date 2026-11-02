@@ -61,7 +61,7 @@
 
 | 전시 | 주제 | 위치 |
 |---|---|---|
-| 그래픽 디자인 & 일러스트 포트폴리오 | 미술 · 디자인 | [`backup/`](backup/) |
+| 그래픽 디자인 & 일러스트 컨설팅 | 미술 · 디자인 | [`exhibits/graphic-design/`](exhibits/graphic-design/) |
 
 ---
 
@@ -74,7 +74,7 @@
 | `index.html` | 로비. 직접 쓴 정적 페이지 한 장. 예전 감상회 링크(`#/…`)는 새 주소로 넘겨 줍니다 |
 | `favicon.svg`, `favicon.js` | 움직이는 탭 아이콘 (해와 물결) |
 | `assets/readme/` | 로비와 이 README의 배너와 전시관 아이콘 |
-| `backup/` | 지난 전시 |
+| `exhibits/graphic-design/` | 지난 전시 (컨설팅 안내) |
 
 로컬에서 보려면 `python -m http.server 8051` 후 `http://localhost:8051`에 접속하세요.
 

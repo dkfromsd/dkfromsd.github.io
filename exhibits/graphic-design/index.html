@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Graphic Design &amp; Illustration Consulting · 발코니 미술관</title>
+<meta name="description" content="일러스트레이션 포트폴리오 점검과 그래픽 디자인 상담. 첫 상담은 무료입니다. Portfolio review and design consulting — the first session is free.">
+<meta name="robots" content="noai, noimageai">
+<meta name="theme-color" content="#f6efe3">
+<meta property="og:title" content="Graphic Design & Illustration Consulting · Balcony Museum">
+<meta property="og:description" content="일러스트레이션 포트폴리오 점검 · 그래픽 디자인 상담 · 첫 상담 무료">
+<meta property="og:type" content="website">
+<link rel="canonical" href="https://balconymuseum.com/exhibits/graphic-design/">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6efe3; --paper:#fffaf2; --ink:#2b211a; --muted:#6f6052; --line:#e2d3bb;
+  --rust:#a14b1c; --teal:#1d6766; --sun:#f0a463; --gold:#b08d57;
+  --shadow:0 1px 0 rgba(60,35,15,.05),0 14px 30px -18px rgba(60,35,15,.45);
+  --latin:"Cormorant Garamond","Iowan Old Style",Georgia,serif;
+  --serif:"Noto Serif KR","Iowan Old Style",Georgia,serif;
+  --sans:"Noto Sans KR",-apple-system,"Segoe UI","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:72px}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.85 var(--sans);-webkit-font-smoothing:antialiased;word-break:keep-all}
+a{color:var(--teal);text-underline-offset:3px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--teal);outline-offset:3px;border-radius:4px}
+.wrap{max-width:960px;margin:0 auto;padding:0 20px}
+
+/* 언어 전환: 기본 한국어, JS가 없으면 둘 다 보인다 */
+.js[data-lang="ko"] [lang="en"]{display:none}
+.js[data-lang="en"] [lang="ko"]{display:none}
+.both [lang="en"]{display:block;color:var(--muted);font-size:.94em}
+
+nav.top{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 90%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+nav.top .wrap{display:flex;align-items:center;gap:8px;padding-top:10px;padding-bottom:10px}
+.brand{font-family:var(--latin);font-weight:600;font-size:21px;color:var(--ink);text-decoration:none;margin-right:auto;white-space:nowrap}
+.brand small{font-family:var(--sans);font-size:12px;color:var(--muted);margin-left:8px}
+.lobby{font-size:14px;color:var(--muted);text-decoration:none;padding:4px 10px;border-radius:99px;white-space:nowrap}
+.lobby:hover{background:rgba(29,103,102,.1);color:var(--teal)}
+.lang{display:inline-flex;border:1px solid var(--line);border-radius:99px;overflow:hidden;background:var(--paper)}
+.lang button{font:600 12px var(--sans);letter-spacing:.06em;border:0;background:none;padding:5px 12px;color:var(--muted);cursor:pointer}
+.js[data-lang="ko"] .lang button[data-l="ko"],.js[data-lang="en"] .lang button[data-l="en"]{background:var(--teal);color:#fff}
+.lang{display:none}.js .lang{display:inline-flex}
+
+/* 히어로 */
+.hero{padding:34px 0 8px;text-align:center}
+.art{max-width:880px;margin:0 auto;border:10px solid #f7ecd2;outline:1px solid var(--gold);box-shadow:var(--shadow);background:var(--paper);line-height:0}
+.art svg{width:100%;height:auto;display:block}
+.eyebrow{font-family:var(--latin);font-style:italic;font-size:20px;color:var(--rust);margin:26px 0 0}
+h1{font-family:var(--serif);font-weight:700;font-size:clamp(26px,5vw,42px);line-height:1.3;margin:6px 0 10px}
+.lead{max-width:640px;margin:0 auto;color:var(--muted)}
+.cta{display:inline-block;margin-top:22px;background:var(--teal);color:#fff;text-decoration:none;padding:11px 26px;border-radius:99px;font-weight:700;box-shadow:var(--shadow)}
+.cta:hover{background:#17504f}
+
+section{padding:46px 0 6px}
+h2{font-family:var(--serif);font-size:24px;margin:0 0 4px;text-align:center}
+h2::after{content:"";display:block;width:44px;height:2px;background:var(--gold);margin:10px auto 0}
+.sub{text-align:center;color:var(--muted);margin:10px 0 24px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:20px 22px;box-shadow:var(--shadow)}
+.card h3{font-family:var(--serif);font-size:18px;margin:0 0 6px;color:var(--rust)}
+.card p{margin:0;font-size:15px}
+.card .en{display:block;margin-top:6px;color:var(--muted);font-size:14px}
+.steps{counter-reset:s;list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+.steps li{counter-increment:s;background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:18px 20px;position:relative;padding-top:34px}
+.steps li::before{content:counter(s);position:absolute;top:-14px;left:18px;width:30px;height:30px;border-radius:50%;background:var(--gold);color:#fff;font:600 17px/30px var(--latin);text-align:center}
+.steps b{display:block;font-family:var(--serif)}
+.note{max-width:640px;margin:22px auto 0;text-align:center;font-size:14px;color:var(--muted)}
+.contact{text-align:center;margin:20px 0 0}
+.contact a.mail{font-family:var(--latin);font-size:clamp(24px,5vw,34px);font-weight:600;color:var(--rust);text-decoration:none;border-bottom:2px solid var(--gold)}
+footer{margin-top:60px;border-top:1px solid var(--line);padding:24px 0 40px;text-align:center;color:var(--muted);font-size:13px}
+
+/* 히어로 SVG 애니메이션 */
+.wash{transform-box:fill-box;transform-origin:center;animation:drift 14s ease-in-out infinite alternate}
+.wash.b{animation-duration:18s;animation-delay:-5s}
+.wash.c{animation-duration:11s;animation-delay:-8s}
+@keyframes drift{from{transform:translate(-14px,4px) scale(1)}to{transform:translate(16px,-6px) scale(1.06)}}
+.stroke{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 3.4s .4s ease-out forwards}
+.stroke.s2{animation-delay:1.2s}.stroke.s3{animation-delay:2s}
+@keyframes draw{to{stroke-dashoffset:0}}
+.dot{opacity:0;animation:pop .8s ease-out forwards, bob 5s ease-in-out infinite alternate}
+@keyframes pop{to{opacity:.9}}
+@keyframes bob{from{translate:0 0}to{translate:0 -9px}}
+.bird{animation:fly 22s linear infinite}
+@keyframes fly{from{transform:translateX(-80px)}to{transform:translateX(980px)}}
+@media (prefers-reduced-motion:reduce){.wash,.dot,.bird{animation:none}.dot{opacity:.9}.stroke{animation:none;stroke-dashoffset:0}}
+</style>
+</head>
+<body class="both">
+<script>
+(function(){
+  var d=document.documentElement,b=document.body,l;
+  try{l=localStorage.getItem("gd-lang")}catch(e){}
+  if(!l)l=/^ko/i.test(navigator.language||"ko")?"ko":"en";
+  d.className+=" js";d.setAttribute("data-lang",l);b.className="";
+  d.lang=l;
+  window.setLang=function(x){d.setAttribute("data-lang",x);d.lang=x;try{localStorage.setItem("gd-lang",x)}catch(e){}};
+})();
+</script>
+
+<nav class="top"><div class="wrap">
+  <a class="brand" href="/">Balcony Museum<small>발코니 미술관</small></a>
+  <a class="lobby" href="/"><span lang="ko">← 로비</span><span lang="en">← Lobby</span></a>
+  <span class="lang" role="group" aria-label="Language"><button type="button" data-l="ko" onclick="setLang('ko')">KO</button><button type="button" data-l="en" onclick="setLang('en')">EN</button></span>
+</div></nav>
+
+<header class="hero"><div class="wrap">
+  <div class="art" role="img" aria-label="수채화풍의 추상 일러스트: 번지는 물감과 붓 자국 / An abstract watercolor illustration of blooming washes and brush strokes">
+    <svg viewBox="0 0 880 380" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+      <defs>
+        <filter id="wc" x="-20%" y="-20%" width="140%" height="140%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.012 0.02" numOctaves="3" seed="7" result="n"/>
+          <feDisplacementMap in="SourceGraphic" in2="n" scale="46"/>
+          <feGaussianBlur stdDeviation="3.2"/>
+        </filter>
+        <filter id="grain" x="0" y="0" width="100%" height="100%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/>
+          <feColorMatrix values="0 0 0 0 .45  0 0 0 0 .32  0 0 0 0 .2  0 0 0 .22 0"/>
+        </filter>
+        <filter id="brush" x="-5%" y="-30%" width="110%" height="160%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="2" seed="11" result="n"/>
+          <feDisplacementMap in="SourceGraphic" in2="n" scale="5"/>
+        </filter>
+        <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbf1dc"/><stop offset="1" stop-color="#f6e3c4"/></linearGradient>
+      </defs>
+      <rect width="880" height="380" fill="url(#sky)"/>
+      <g filter="url(#wc)" style="mix-blend-mode:multiply">
+        <ellipse class="wash" cx="190" cy="170" rx="170" ry="110" fill="#f0a463" opacity=".62"/>
+        <ellipse class="wash b" cx="470" cy="215" rx="190" ry="105" fill="#1d6766" opacity=".42"/>
+        <ellipse class="wash c" cx="700" cy="130" rx="150" ry="95" fill="#d9697a" opacity=".38"/>
+        <ellipse class="wash b" cx="330" cy="95" rx="110" ry="60" fill="#e9c46a" opacity=".5"/>
+        <ellipse class="wash" cx="760" cy="290" rx="140" ry="70" fill="#6a8fb8" opacity=".38"/>
+      </g>
+      <g fill="none" stroke-linecap="round" filter="url(#brush)">
+        <path class="stroke" pathLength="1" d="M60 290 C190 210 260 330 390 255 S600 190 820 250" stroke="#2b211a" stroke-width="3.2" opacity=".78"/>
+        <path class="stroke s2" pathLength="1" d="M110 120 C200 70 260 150 340 110" stroke="#a14b1c" stroke-width="2.4" opacity=".8"/>
+        <path class="stroke s3" pathLength="1" d="M520 80 C600 40 650 120 740 70 S820 60 850 90" stroke="#1d6766" stroke-width="2.4" opacity=".8"/>
+      </g>
+      <g fill="#a14b1c">
+        <circle class="dot" cx="150" cy="300" r="7" style="animation-delay:2.4s,3.2s"/>
+        <circle class="dot" cx="425" cy="310" r="5" fill="#1d6766" style="animation-delay:2.7s,3.5s"/>
+        <circle class="dot" cx="610" cy="320" r="8" fill="#e9c46a" style="animation-delay:3s,3.8s"/>
+        <circle class="dot" cx="790" cy="190" r="5" style="animation-delay:3.3s,4.1s"/>
+      </g>
+      <g class="bird" fill="none" stroke="#2b211a" stroke-width="2" stroke-linecap="round" opacity=".7">
+        <path d="M0 60 q10 -12 20 0 q10 -12 20 0"/><path d="M60 40 q7 -9 14 0 q7 -9 14 0" transform="translate(30 8)"/>
+      </g>
+      <rect width="880" height="380" filter="url(#grain)" style="mix-blend-mode:multiply"/>
+    </svg>
+  </div>
+  <p class="eyebrow">Graphic Design &amp; Illustration · Consulting</p>
+  <h1><span lang="ko">내 그림을 어떻게 보여줄까,<br>함께 점검해 드립니다</span><span lang="en">How should your work be seen?<br>Let’s review it together.</span></h1>
+  <p class="lead">
+    <span lang="ko">이곳은 작품을 걸어 둔 전시가 아니라, 일러스트레이션 포트폴리오와 그래픽 디자인을 다듬도록 돕는 <b>상담 안내</b> 전시입니다.</span>
+    <span lang="en">This is not a gallery of finished pieces. It is a consulting desk for illustration portfolios and graphic design.</span>
+  </p>
+  <a class="cta" href="mailto:info@balconymuseum.com?subject=%EC%83%81%EB%8B%B4%20%EB%AC%B8%EC%9D%98%20%2F%20Consulting%20inquiry"><span lang="ko">첫 상담 신청 (무료)</span><span lang="en">Book a free first session</span></a>
+</div></header>
+
+<main class="wrap">
+  <section id="who">
+    <h2><span lang="ko">이런 분께</span><span lang="en">Who it is for</span></h2>
+    <div class="grid" style="margin-top:22px">
+      <div class="card"><h3><span lang="ko">그림을 모아 둔 분</span><span lang="en">Illustrators with a pile of work</span></h3><p><span lang="ko">그림은 많은데 어떤 것을, 어떤 순서로 보여줘야 할지 막막한 분.</span><span lang="en">You have plenty of work and don’t know what to show, or in what order.</span></p></div>
+      <div class="card"><h3><span lang="ko">일러스트로 일을 시작하려는 분</span><span lang="en">Starting out professionally</span></h3><p><span lang="ko">출판·브랜드·온라인 작업 의뢰를 받기 위한 포트폴리오가 필요한 분.</span><span lang="en">You need a portfolio that can win publishing, brand or online commissions.</span></p></div>
+      <div class="card"><h3><span lang="ko">작은 사업을 하는 분</span><span lang="en">Small businesses</span></h3><p><span lang="ko">로고와 이미지 톤을 한결같이 정리하고 싶은 분.</span><span lang="en">You want a consistent logo and visual tone.</span></p></div>
+    </div>
+  </section>
+
+  <section id="help">
+    <h2><span lang="ko">도와드리는 일</span><span lang="en">What we can help with</span></h2>
+    <div class="grid" style="margin-top:22px">
+      <div class="card"><h3><span lang="ko">일러스트레이션 포트폴리오 점검</span><span lang="en">Illustration portfolio review</span></h3><p><span lang="ko">작품 선별과 배치, 설명 글, 첫인상을 함께 살펴보고 고칠 점을 정리해 드립니다.</span><span lang="en">We look at selection, order, captions and first impressions, and we write up what to improve.</span></p></div>
+      <div class="card"><h3><span lang="ko">그래픽 디자인 상담</span><span lang="en">Graphic design advice</span></h3><p><span lang="ko">색, 글자, 구도 같은 기본기를 점검하고 방향을 잡아 드립니다.</span><span lang="en">Colour, type and composition: a check of the fundamentals and a direction to take.</span></p></div>
+      <div class="card"><h3><span lang="ko">유지보수</span><span lang="en">Ongoing upkeep</span></h3><p><span lang="ko">상담 후 자료를 고쳐 나갈 때 계속 도와드립니다. 비용은 부담 없는 수준으로 맞춥니다.</span><span lang="en">Help continues as you revise your material afterwards, at a modest cost.</span></p></div>
+    </div>
+  </section>
+
+  <section id="how">
+    <h2><span lang="ko">진행 방식</span><span lang="en">How it works</span></h2>
+    <p class="sub"><span lang="ko">첫 상담은 무료입니다.</span><span lang="en">The first session is free.</span></p>
+    <ol class="steps">
+      <li><b><span lang="ko">이메일로 문의</span><span lang="en">Write to us</span></b><span lang="ko">하고 싶은 일과 가진 자료를 간단히 알려 주세요.</span><span lang="en">Tell us what you want to do and what you have.</span></li>
+      <li><b><span lang="ko">첫 상담 (무료)</span><span lang="en">Free first session</span></b><span lang="ko">현재 상태를 함께 보고 가능한 방향을 이야기합니다.</span><span lang="en">We review where you are and talk through options.</span></li>
+      <li><b><span lang="ko">점검 의견</span><span lang="en">Written feedback</span></b><span lang="ko">고칠 점과 우선순위를 정리해 전해 드립니다.</span><span lang="en">You get the changes to make, in priority order.</span></li>
+      <li><b><span lang="ko">이어서 도움</span><span lang="en">Follow-up</span></b><span lang="ko">원하시면 수정 과정을 계속 함께합니다.</span><span lang="en">If you wish, we keep working through revisions.</span></li>
+    </ol>
+    <p class="note"><span lang="ko">작업 사례는 이곳에 공개하지 않습니다. 필요하시면 상담 중에 말씀드립니다.</span><span lang="en">Past work is not shown publicly here. Ask during the session if you would like to know more.</span></p>
+  </section>
+
+  <section id="contact">
+    <h2><span lang="ko">문의</span><span lang="en">Contact</span></h2>
+    <p class="contact"><a class="mail" href="mailto:info@balconymuseum.com">info@balconymuseum.com</a></p>
+    <p class="note"><span lang="ko">문의 양식 없이 이메일로만 받습니다.</span><span lang="en">Email only; there is no form.</span></p>
+  </section>
+</main>
+
+<footer><div class="wrap">
+  <a href="/">Balcony Museum · 발코니 미술관</a> &nbsp;·&nbsp;
+  <a href="/exhibits/bossa-nova/#/notice"><span lang="ko">이용 안내</span><span lang="en">Notice</span></a>
+</div></footer>
+</body>
+</html>
